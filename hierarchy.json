@@ -1,0 +1,6256 @@
+ {
+  "name": "/common/topic", 
+  "children": [
+   {
+    "name": "/cvg/computer_game_rating"
+   }, 
+   {
+    "name": "/language/human_language", 
+    "children": [
+     {
+      "name": "/language/conlang"
+     }
+    ]
+   }, 
+   {
+    "name": "/cvg/game_version"
+   }, 
+   {
+    "name": "/digicams/camera_sensor_type"
+   }, 
+   {
+    "name": "/spaceflight/rocket_function"
+   }, 
+   {
+    "name": "/food/tea_type"
+   }, 
+   {
+    "name": "/visual_art/visual_art_form"
+   }, 
+   {
+    "name": "/sports/sports_award_winner"
+   }, 
+   {
+    "name": "/book/magazine_genre"
+   }, 
+   {
+    "name": "/book/report_issuing_institution"
+   }, 
+   {
+    "name": "/sports/coaching_position"
+   }, 
+   {
+    "name": "/boats/hull_material"
+   }, 
+   {
+    "name": "/metropolitan_transit/transit_system"
+   }, 
+   {
+    "name": "/biology/genome_curator"
+   }, 
+   {
+    "name": "/celebrities/reason_for_arrest"
+   }, 
+   {
+    "name": "/military/casualties_type"
+   }, 
+   {
+    "name": "/book/translated_work"
+   }, 
+   {
+    "name": "/chemistry/chemical_series"
+   }, 
+   {
+    "name": "/music/music_video_character"
+   }, 
+   {
+    "name": "/military/military_post"
+   }, 
+   {
+    "name": "/tv/tv_song_performer"
+   }, 
+   {
+    "name": "/law/patent_office"
+   }, 
+   {
+    "name": "/fictional_universe/school_in_fiction"
+   }, 
+   {
+    "name": "/exhibitions/exhibition"
+   }, 
+   {
+    "name": "/film/film_subject"
+   }, 
+   {
+    "name": "/engineering/channel_access_method"
+   }, 
+   {
+    "name": "/theater/theater_designer_role"
+   }, 
+   {
+    "name": "/comic_books/comic_book_series"
+   }, 
+   {
+    "name": "/games/playing_card_deck_type"
+   }, 
+   {
+    "name": "/opera/librettist"
+   }, 
+   {
+    "name": "/cvg/game_series"
+   }, 
+   {
+    "name": "/award/hall_of_fame_discipline"
+   }, 
+   {
+    "name": "/fashion/fiber"
+   }, 
+   {
+    "name": "/book/poetic_meter"
+   }, 
+   {
+    "name": "/government/political_appointer"
+   }, 
+   {
+    "name": "/radio/radio_episode_segment"
+   }, 
+   {
+    "name": "/law/judicial_title"
+   }, 
+   {
+    "name": "/comic_strips/comic_strip_creator"
+   }, 
+   {
+    "name": "/food/cheese_certification"
+   }, 
+   {
+    "name": "/digicams/camera_color_filter_array_type"
+   }, 
+   {
+    "name": "/visual_art/art_subject"
+   }, 
+   {
+    "name": "/tv/tv_producer_type"
+   }, 
+   {
+    "name": "/law/court"
+   }, 
+   {
+    "name": "/religion/prayer"
+   }, 
+   {
+    "name": "/event/speech_topic"
+   }, 
+   {
+    "name": "/government/governmental_body"
+   }, 
+   {
+    "name": "/travel/accommodation_price_range"
+   }, 
+   {
+    "name": "/aviation/aircraft_line"
+   }, 
+   {
+    "name": "/biology/genome_build"
+   }, 
+   {
+    "name": "/time/month"
+   }, 
+   {
+    "name": "/wine/grape_variety"
+   }, 
+   {
+    "name": "/rail/steam_locomotive_wheel_configuration"
+   }, 
+   {
+    "name": "/religion/type_of_place_of_worship"
+   }, 
+   {
+    "name": "/government/form_of_government"
+   }, 
+   {
+    "name": "/time/event", 
+    "children": [
+     {
+      "name": "/award/award_announcement"
+     }, 
+     {
+      "name": "/event/public_speaking_event", 
+      "children": [
+       {
+        "name": "/conferences/conference"
+       }
+      ]
+     }, 
+     {
+      "name": "/award/award_nomination_announcement"
+     }, 
+     {
+      "name": "/military/military_conflict", 
+      "children": [
+       {
+        "name": "/military/battle"
+       }, 
+       {
+        "name": "/military/war"
+       }
+      ]
+     }, 
+     {
+      "name": "/royalty/coronation"
+     }, 
+     {
+      "name": "/time/commemorative_event"
+     }, 
+     {
+      "name": "/award/competition"
+     }, 
+     {
+      "name": "/award/award_ceremony"
+     }, 
+     {
+      "name": "/event/disaster", 
+      "children": [
+       {
+        "name": "/aviation/airliner_accident"
+       }
+      ]
+     }, 
+     {
+      "name": "/film/film_festival_event"
+     }, 
+     {
+      "name": "/spaceflight/space_mission"
+     }, 
+     {
+      "name": "/law/constitutional_convention"
+     }, 
+     {
+      "name": "/sports/multi_event_tournament"
+     }, 
+     {
+      "name": "/soccer/football_world_cup"
+     }, 
+     {
+      "name": "/music/concert"
+     }, 
+     {
+      "name": "/boxing/boxing_match"
+     }, 
+     {
+      "name": "/olympics/olympic_event_competition"
+     }, 
+     {
+      "name": "/olympics/olympic_games"
+     }, 
+     {
+      "name": "/soccer/football_match"
+     }, 
+     {
+      "name": "/sports/sports_championship_event", 
+      "children": [
+       {
+        "name": "/cricket/cricket_tournament_event"
+       }, 
+       {
+        "name": "/cricket/cricket_series_event"
+       }
+      ]
+     }, 
+     {
+      "name": "/government/election", 
+      "children": [
+       {
+        "name": "/government/primary_election"
+       }
+      ]
+     }, 
+     {
+      "name": "/music/concert_tour"
+     }, 
+     {
+      "name": "/sports/tournament_event_competition"
+     }, 
+     {
+      "name": "/sports/sports_league_season", 
+      "children": [
+       {
+        "name": "/soccer/football_league_season"
+       }
+      ]
+     }, 
+     {
+      "name": "/american_football/football_game", 
+      "children": [
+       {
+        "name": "/american_football/nfl_game"
+       }
+      ]
+     }, 
+     {
+      "name": "/olympics/olympic_demonstration_competition"
+     }, 
+     {
+      "name": "/government/general_election", 
+      "children": [
+       {
+        "name": "/government/parliamentary_election"
+       }
+      ]
+     }, 
+     {
+      "name": "/law/legal_case"
+     }
+    ]
+   }, 
+   {
+    "name": "/business/product_line"
+   }, 
+   {
+    "name": "/biology/hybrid_parent_classification"
+   }, 
+   {
+    "name": "/boats/hull_configuration"
+   }, 
+   {
+    "name": "/visual_art/art_owner"
+   }, 
+   {
+    "name": "/religion/religious_text"
+   }, 
+   {
+    "name": "/internet/top_level_domain"
+   }, 
+   {
+    "name": "/atom/feed_link"
+   }, 
+   {
+    "name": "/automotive/engine"
+   }, 
+   {
+    "name": "/film/person_or_entity_appearing_in_film"
+   }, 
+   {
+    "name": "/business/sponsored_recipient"
+   }, 
+   {
+    "name": "/biology/plant_disease_cause"
+   }, 
+   {
+    "name": "/spaceflight/satellite_type"
+   }, 
+   {
+    "name": "/venture_capital/investment_round"
+   }, 
+   {
+    "name": "/cricket/cricket_match"
+   }, 
+   {
+    "name": "/time/holiday_period"
+   }, 
+   {
+    "name": "/sports/sports_equipment"
+   }, 
+   {
+    "name": "/religion/religious_jurisdiction_class"
+   }, 
+   {
+    "name": "/automotive/fuel"
+   }, 
+   {
+    "name": "/music/release_track"
+   }, 
+   {
+    "name": "/medicine/type_of_infectious_agent"
+   }, 
+   {
+    "name": "/government/legislative_committee_title"
+   }, 
+   {
+    "name": "/automotive/make"
+   }, 
+   {
+    "name": "/business/issue_type"
+   }, 
+   {
+    "name": "/broadcast/artist"
+   }, 
+   {
+    "name": "/music/engineer"
+   }, 
+   {
+    "name": "/engineering/battery_cell_type"
+   }, 
+   {
+    "name": "/biology/breed_group"
+   }, 
+   {
+    "name": "/astronomy/celestial_object_category"
+   }, 
+   {
+    "name": "/geography/mountain_type"
+   }, 
+   {
+    "name": "/geography/glacier_terminus"
+   }, 
+   {
+    "name": "/radio/radio_program_episode"
+   }, 
+   {
+    "name": "/protected_sites/listed_site"
+   }, 
+   {
+    "name": "/food/culinary_tool"
+   }, 
+   {
+    "name": "/book/book_edition"
+   }, 
+   {
+    "name": "/business/product_theme"
+   }, 
+   {
+    "name": "/music/music_video"
+   }, 
+   {
+    "name": "/olympics/olympic_event"
+   }, 
+   {
+    "name": "/medicine/medical_specialty"
+   }, 
+   {
+    "name": "/computer/computer_designer"
+   }, 
+   {
+    "name": "/transportation/road_orientation"
+   }, 
+   {
+    "name": "/book/newspaper_owner"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_universe", 
+    "children": [
+     {
+      "name": "/comic_books/comic_book_fictional_universe"
+     }
+    ]
+   }, 
+   {
+    "name": "/royalty/order_of_chivalry"
+   }, 
+   {
+    "name": "/food/nutrient"
+   }, 
+   {
+    "name": "/astronomy/extraterrestrial_location"
+   }, 
+   {
+    "name": "/sports/defunct_sports_team"
+   }, 
+   {
+    "name": "/aviation/aircraft_owner"
+   }, 
+   {
+    "name": "/soccer/football_disciplinary_punishment"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_language"
+   }, 
+   {
+    "name": "/royalty/chivalric_order_officer"
+   }, 
+   {
+    "name": "/tv/sequence_of_tv_episode_segments"
+   }, 
+   {
+    "name": "/biology/fossil_specimen"
+   }, 
+   {
+    "name": "/internet/website_status"
+   }, 
+   {
+    "name": "/award/hall_of_fame"
+   }, 
+   {
+    "name": "/cvg/musical_game_song"
+   }, 
+   {
+    "name": "/metropolitan_transit/transit_line"
+   }, 
+   {
+    "name": "/meteorology/tropical_cyclone_category"
+   }, 
+   {
+    "name": "/opera/opera_production"
+   }, 
+   {
+    "name": "/medicine/drug_dosage_flavor"
+   }, 
+   {
+    "name": "/exhibitions/exhibit"
+   }, 
+   {
+    "name": "/book/financial_support_provider"
+   }, 
+   {
+    "name": "/religion/adherents"
+   }, 
+   {
+    "name": "/medicine/cancer_center_constituent"
+   }, 
+   {
+    "name": "/astronomy/telescope_principle_type"
+   }, 
+   {
+    "name": "/cvg/computer_game_content_descriptor"
+   }, 
+   {
+    "name": "/soccer/football_league_system"
+   }, 
+   {
+    "name": "/games/game_genre"
+   }, 
+   {
+    "name": "/fashion/weave"
+   }, 
+   {
+    "name": "/architecture/light_characteristic"
+   }, 
+   {
+    "name": "/food/beer_container"
+   }, 
+   {
+    "name": "/education/field_of_study"
+   }, 
+   {
+    "name": "/medicine/symptom"
+   }, 
+   {
+    "name": "/government/government_office_or_title"
+   }, 
+   {
+    "name": "/education/school_mascot"
+   }, 
+   {
+    "name": "/aviation/aircraft_designer"
+   }, 
+   {
+    "name": "/internet/website"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_object"
+   }, 
+   {
+    "name": "/engineering/battery"
+   }, 
+   {
+    "name": "/religion/belief"
+   }, 
+   {
+    "name": "/travel/transport_operator"
+   }, 
+   {
+    "name": "/book/cited_work"
+   }, 
+   {
+    "name": "/food/beer_country_region"
+   }, 
+   {
+    "name": "/film/film_series"
+   }, 
+   {
+    "name": "/internet/website_owner"
+   }, 
+   {
+    "name": "/boats/boat_fate"
+   }, 
+   {
+    "name": "/royalty/noble_title"
+   }, 
+   {
+    "name": "/business/product_ingredient"
+   }, 
+   {
+    "name": "/wine/wine_color"
+   }, 
+   {
+    "name": "/architecture/destruction_method"
+   }, 
+   {
+    "name": "/chemistry/chemical_classification"
+   }, 
+   {
+    "name": "/law/litigant"
+   }, 
+   {
+    "name": "/film/production_company"
+   }, 
+   {
+    "name": "/protected_sites/park_system"
+   }, 
+   {
+    "name": "/computer/content_license"
+   }, 
+   {
+    "name": "/music/synthesizer"
+   }, 
+   {
+    "name": "/people/appointer"
+   }, 
+   {
+    "name": "/location/metropolitan_area_category"
+   }, 
+   {
+    "name": "/amusement_parks/amusement_park_area"
+   }, 
+   {
+    "name": "/government/government_issued_permit"
+   }, 
+   {
+    "name": "/biology/informal_biological_grouping"
+   }, 
+   {
+    "name": "/film/film_genre"
+   }, 
+   {
+    "name": "/sports/sport"
+   }, 
+   {
+    "name": "/computer/computer_product_line"
+   }, 
+   {
+    "name": "/book/poetic_verse_form"
+   }, 
+   {
+    "name": "/computer/programming_language_paradigm"
+   }, 
+   {
+    "name": "/people/marriage_union_type"
+   }, 
+   {
+    "name": "/boats/ship_owner"
+   }, 
+   {
+    "name": "/sports/sports_award_type"
+   }, 
+   {
+    "name": "/organization/organization_type"
+   }, 
+   {
+    "name": "/basketball/basketball_position"
+   }, 
+   {
+    "name": "/olympics/olympic_medal"
+   }, 
+   {
+    "name": "/zoos/zoo_exhibit"
+   }, 
+   {
+    "name": "/sports/sports_position"
+   }, 
+   {
+    "name": "/religion/religious_leadership_role"
+   }, 
+   {
+    "name": "/film/film_screening_venue"
+   }, 
+   {
+    "name": "/event/produced_event"
+   }, 
+   {
+    "name": "/computer/programming_language_designer"
+   }, 
+   {
+    "name": "/biology/hybrid_parent_gender"
+   }, 
+   {
+    "name": "/medicine/hospital_ownership_status"
+   }, 
+   {
+    "name": "/law/constitution"
+   }, 
+   {
+    "name": "/business/asset_owner"
+   }, 
+   {
+    "name": "/astronomy/near_earth_object_classification"
+   }, 
+   {
+    "name": "/time/holiday"
+   }, 
+   {
+    "name": "/medicine/medical_trial_type"
+   }, 
+   {
+    "name": "/business/stock_ticker_symbol"
+   }, 
+   {
+    "name": "/music/album", 
+    "children": [
+     {
+      "name": "/music/soundtrack"
+     }, 
+     {
+      "name": "/theater/musical_soundtrack"
+     }, 
+     {
+      "name": "/cvg/video_game_soundtrack"
+     }, 
+     {
+      "name": "/music/live_album"
+     }, 
+     {
+      "name": "/tv/tv_soundtrack"
+     }
+    ]
+   }, 
+   {
+    "name": "/cvg/gameplay_mode"
+   }, 
+   {
+    "name": "/cricket/cricket_match_type"
+   }, 
+   {
+    "name": "/boats/ship"
+   }, 
+   {
+    "name": "/skiing/ski_area_owner"
+   }, 
+   {
+    "name": "/government/poll_respondent_category"
+   }, 
+   {
+    "name": "/business/advertising_slogan"
+   }, 
+   {
+    "name": "/sports/mascot", 
+    "children": [
+     {
+      "name": "/olympics/olympic_mascot"
+     }
+    ]
+   }, 
+   {
+    "name": "/astronomy/meteor_shower"
+   }, 
+   {
+    "name": "/distilled_spirits/distilled_spirit_type"
+   }, 
+   {
+    "name": "/olympics/olympic_participating_country"
+   }, 
+   {
+    "name": "/event/type_of_public_presentation"
+   }, 
+   {
+    "name": "/military/military_resource"
+   }, 
+   {
+    "name": "/film/film_company_role_or_service"
+   }, 
+   {
+    "name": "/tv/tv_rating_system"
+   }, 
+   {
+    "name": "/distilled_spirits/fermentation_base"
+   }, 
+   {
+    "name": "/sports/tournament_event"
+   }, 
+   {
+    "name": "/cvg/cvg_genre"
+   }, 
+   {
+    "name": "/digicams/camera_viewfinder_type"
+   }, 
+   {
+    "name": "/finance/currency"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_organization_type"
+   }, 
+   {
+    "name": "/biology/gene_group_membership_evidence"
+   }, 
+   {
+    "name": "/boxing/boxing_title"
+   }, 
+   {
+    "name": "/computer/html_layout_engine"
+   }, 
+   {
+    "name": "/event/promoted_event"
+   }, 
+   {
+    "name": "/medicine/disease_stage"
+   }, 
+   {
+    "name": "/book/reviewed_work"
+   }, 
+   {
+    "name": "/sports/golf_club_access"
+   }, 
+   {
+    "name": "/cvg/input_method"
+   }, 
+   {
+    "name": "/visual_art/artwork"
+   }, 
+   {
+    "name": "/location/symbol_of_administrative_division"
+   }, 
+   {
+    "name": "/fictional_universe/calendar_system_directionality"
+   }, 
+   {
+    "name": "/exhibitions/exhibition_sponsor"
+   }, 
+   {
+    "name": "/distilled_spirits/infused_spirit"
+   }, 
+   {
+    "name": "/tv/tv_network"
+   }, 
+   {
+    "name": "/cvg/computer_game_engine_developer"
+   }, 
+   {
+    "name": "/medicine/vector_of_disease"
+   }, 
+   {
+    "name": "/distilled_spirits/blended_spirit_style"
+   }, 
+   {
+    "name": "/digicams/image_stabilization_type"
+   }, 
+   {
+    "name": "/award/award_category"
+   }, 
+   {
+    "name": "/location/hud_nmfa"
+   }, 
+   {
+    "name": "/location/location", 
+    "children": [
+     {
+      "name": "/periodicals/newspaper_circulation_area"
+     }, 
+     {
+      "name": "/location/dated_location", 
+      "children": [
+       {
+        "name": "/location/uk_council_area"
+       }, 
+       {
+        "name": "/location/in_state"
+       }, 
+       {
+        "name": "/location/uk_constituent_country"
+       }, 
+       {
+        "name": "/location/tr_region"
+       }, 
+       {
+        "name": "/location/fr_region"
+       }, 
+       {
+        "name": "/location/ru_autonomous_oblast"
+       }, 
+       {
+        "name": "/location/mx_municipality"
+       }, 
+       {
+        "name": "/location/vn_precinct"
+       }, 
+       {
+        "name": "/location/australian_state"
+       }, 
+       {
+        "name": "/location/australian_local_government_area"
+       }, 
+       {
+        "name": "/location/fr_department"
+       }, 
+       {
+        "name": "/location/us_federal_district"
+       }, 
+       {
+        "name": "/location/de_urban_district"
+       }, 
+       {
+        "name": "/location/ca_territory"
+       }, 
+       {
+        "name": "/location/us_state"
+       }, 
+       {
+        "name": "/location/id_city"
+       }, 
+       {
+        "name": "/location/kp_metropolitan_city"
+       }, 
+       {
+        "name": "/location/brazilian_municipality"
+       }, 
+       {
+        "name": "/location/mx_state"
+       }, 
+       {
+        "name": "/location/jp_designated_city"
+       }, 
+       {
+        "name": "/location/australian_territory"
+       }, 
+       {
+        "name": "/location/in_city"
+       }, 
+       {
+        "name": "/location/cn_autonomous_region"
+       }, 
+       {
+        "name": "/location/es_autonomous_community"
+       }, 
+       {
+        "name": "/location/tw_district"
+       }, 
+       {
+        "name": "/location/cn_municipality"
+       }, 
+       {
+        "name": "/location/tw_province"
+       }, 
+       {
+        "name": "/location/de_city", 
+        "children": [
+         {
+          "name": "/location/de_urban_district"
+         }
+        ]
+       }, 
+       {
+        "name": "/location/ru_raion"
+       }, 
+       {
+        "name": "/location/ar_department"
+       }, 
+       {
+        "name": "/location/it_frazione"
+       }, 
+       {
+        "name": "/location/mx_federal_district_borough"
+       }, 
+       {
+        "name": "/location/uk_district"
+       }, 
+       {
+        "name": "/location/ru_federal_city"
+       }, 
+       {
+        "name": "/location/us_territory"
+       }, 
+       {
+        "name": "/location/kp_special_city"
+       }, 
+       {
+        "name": "/location/ru_republic"
+       }, 
+       {
+        "name": "/location/it_region"
+       }, 
+       {
+        "name": "/location/cemetery"
+       }, 
+       {
+        "name": "/location/it_province"
+       }, 
+       {
+        "name": "/location/cn_prefecture"
+       }, 
+       {
+        "name": "/location/ru_krai"
+       }, 
+       {
+        "name": "/location/uk_metropolitan_borough"
+       }, 
+       {
+        "name": "/location/us_indian_reservation"
+       }, 
+       {
+        "name": "/location/country"
+       }, 
+       {
+        "name": "/location/cn_prefecture_level_city"
+       }, 
+       {
+        "name": "/location/de_rural_district"
+       }, 
+       {
+        "name": "/location/ar_province"
+       }, 
+       {
+        "name": "/location/ru_autonomous_okrug"
+       }, 
+       {
+        "name": "/location/cn_province"
+       }, 
+       {
+        "name": "/location/es_comarca"
+       }, 
+       {
+        "name": "/location/province"
+       }, 
+       {
+        "name": "/location/ar_commune"
+       }, 
+       {
+        "name": "/location/cn_city_district"
+       }, 
+       {
+        "name": "/location/australian_external_territory"
+       }, 
+       {
+        "name": "/religion/religious_leadership_jurisdiction"
+       }, 
+       {
+        "name": "/location/tw_township"
+       }, 
+       {
+        "name": "/location/vn_rural_district"
+       }, 
+       {
+        "name": "/location/jp_subprefecture"
+       }, 
+       {
+        "name": "/location/uk_region"
+       }, 
+       {
+        "name": "/location/uk_metropolitan_county"
+       }, 
+       {
+        "name": "/location/nl_province"
+       }, 
+       {
+        "name": "/location/in_union_territory"
+       }, 
+       {
+        "name": "/location/my_district"
+       }, 
+       {
+        "name": "/location/in_subdivision"
+       }, 
+       {
+        "name": "/location/tr_province"
+       }, 
+       {
+        "name": "/location/ru_oblast"
+       }, 
+       {
+        "name": "/location/jp_special_ward"
+       }, 
+       {
+        "name": "/location/uk_crown_dependency"
+       }, 
+       {
+        "name": "/location/cn_township"
+       }, 
+       {
+        "name": "/location/vn_township"
+       }, 
+       {
+        "name": "/location/vn_commune"
+       }, 
+       {
+        "name": "/location/es_autonomous_city"
+       }, 
+       {
+        "name": "/location/jp_prefecture"
+       }, 
+       {
+        "name": "/location/australian_suburb"
+       }, 
+       {
+        "name": "/location/cn_subdistrict"
+       }, 
+       {
+        "name": "/location/uk_unitary_authority"
+       }, 
+       {
+        "name": "/location/ca_indian_reserve"
+       }, 
+       {
+        "name": "/location/tw_county"
+       }, 
+       {
+        "name": "/location/ua_autonomous_republic"
+       }, 
+       {
+        "name": "/location/tr_district"
+       }, 
+       {
+        "name": "/location/uk_civil_parish"
+       }, 
+       {
+        "name": "/location/uk_non_metropolitan_district"
+       }, 
+       {
+        "name": "/location/br_federal_district"
+       }, 
+       {
+        "name": "/location/tw_county_administered_city"
+       }, 
+       {
+        "name": "/location/uk_non_metropolitan_county"
+       }, 
+       {
+        "name": "/location/cn_county"
+       }, 
+       {
+        "name": "/location/cn_autonomous_prefecture"
+       }, 
+       {
+        "name": "/location/jp_district"
+       }, 
+       {
+        "name": "/location/administrative_division", 
+        "children": [
+         {
+          "name": "/location/uk_council_area"
+         }, 
+         {
+          "name": "/location/in_state"
+         }, 
+         {
+          "name": "/location/uk_constituent_country"
+         }, 
+         {
+          "name": "/location/fr_region"
+         }, 
+         {
+          "name": "/location/ru_autonomous_oblast"
+         }, 
+         {
+          "name": "/location/mx_municipality"
+         }, 
+         {
+          "name": "/location/vn_precinct"
+         }, 
+         {
+          "name": "/location/australian_state"
+         }, 
+         {
+          "name": "/location/australian_local_government_area"
+         }, 
+         {
+          "name": "/location/fr_department"
+         }, 
+         {
+          "name": "/location/ca_territory"
+         }, 
+         {
+          "name": "/location/us_state"
+         }, 
+         {
+          "name": "/location/id_city"
+         }, 
+         {
+          "name": "/location/kp_metropolitan_city"
+         }, 
+         {
+          "name": "/location/mx_state"
+         }, 
+         {
+          "name": "/location/australian_territory"
+         }, 
+         {
+          "name": "/location/cn_autonomous_region"
+         }, 
+         {
+          "name": "/location/es_autonomous_community"
+         }, 
+         {
+          "name": "/location/tw_district"
+         }, 
+         {
+          "name": "/location/cn_municipality"
+         }, 
+         {
+          "name": "/location/tw_province"
+         }, 
+         {
+          "name": "/location/ru_raion"
+         }, 
+         {
+          "name": "/location/ar_department"
+         }, 
+         {
+          "name": "/location/mx_federal_district_borough"
+         }, 
+         {
+          "name": "/location/uk_district"
+         }, 
+         {
+          "name": "/location/ru_federal_city"
+         }, 
+         {
+          "name": "/location/ru_republic"
+         }, 
+         {
+          "name": "/location/it_region"
+         }, 
+         {
+          "name": "/location/it_province"
+         }, 
+         {
+          "name": "/location/cn_prefecture"
+         }, 
+         {
+          "name": "/location/ru_krai"
+         }, 
+         {
+          "name": "/location/uk_metropolitan_borough"
+         }, 
+         {
+          "name": "/location/us_indian_reservation"
+         }, 
+         {
+          "name": "/location/cn_prefecture_level_city"
+         }, 
+         {
+          "name": "/location/de_rural_district"
+         }, 
+         {
+          "name": "/location/ar_province"
+         }, 
+         {
+          "name": "/location/ru_autonomous_okrug"
+         }, 
+         {
+          "name": "/location/cn_province"
+         }, 
+         {
+          "name": "/location/es_comarca"
+         }, 
+         {
+          "name": "/location/province"
+         }, 
+         {
+          "name": "/location/ar_commune"
+         }, 
+         {
+          "name": "/location/cn_city_district"
+         }, 
+         {
+          "name": "/location/australian_external_territory"
+         }, 
+         {
+          "name": "/location/tw_township"
+         }, 
+         {
+          "name": "/location/vn_rural_district"
+         }, 
+         {
+          "name": "/location/jp_subprefecture"
+         }, 
+         {
+          "name": "/location/uk_region"
+         }, 
+         {
+          "name": "/location/uk_metropolitan_county"
+         }, 
+         {
+          "name": "/location/nl_province"
+         }, 
+         {
+          "name": "/location/in_union_territory"
+         }, 
+         {
+          "name": "/location/my_district"
+         }, 
+         {
+          "name": "/location/in_subdivision"
+         }, 
+         {
+          "name": "/location/tr_province"
+         }, 
+         {
+          "name": "/location/ru_oblast"
+         }, 
+         {
+          "name": "/location/uk_crown_dependency"
+         }, 
+         {
+          "name": "/location/cn_township"
+         }, 
+         {
+          "name": "/location/vn_township"
+         }, 
+         {
+          "name": "/location/vn_commune"
+         }, 
+         {
+          "name": "/location/es_autonomous_city"
+         }, 
+         {
+          "name": "/location/jp_prefecture"
+         }, 
+         {
+          "name": "/location/cn_subdistrict"
+         }, 
+         {
+          "name": "/location/uk_unitary_authority"
+         }, 
+         {
+          "name": "/location/ca_indian_reserve"
+         }, 
+         {
+          "name": "/location/tw_county"
+         }, 
+         {
+          "name": "/location/ua_autonomous_republic"
+         }, 
+         {
+          "name": "/location/tr_district"
+         }, 
+         {
+          "name": "/location/uk_civil_parish"
+         }, 
+         {
+          "name": "/location/uk_non_metropolitan_district"
+         }, 
+         {
+          "name": "/location/tw_county_administered_city"
+         }, 
+         {
+          "name": "/location/uk_non_metropolitan_county"
+         }, 
+         {
+          "name": "/location/cn_county"
+         }, 
+         {
+          "name": "/location/cn_autonomous_prefecture"
+         }, 
+         {
+          "name": "/location/jp_district"
+         }, 
+         {
+          "name": "/location/ua_raion"
+         }, 
+         {
+          "name": "/location/de_state"
+         }, 
+         {
+          "name": "/location/id_province"
+         }, 
+         {
+          "name": "/location/jp_ward"
+         }, 
+         {
+          "name": "/location/in_division"
+         }, 
+         {
+          "name": "/location/us_county", 
+          "children": [
+           {
+            "name": "/location/pr_municipality"
+           }
+          ]
+         }, 
+         {
+          "name": "/location/vn_province"
+         }, 
+         {
+          "name": "/location/de_regierungsbezirk"
+         }, 
+         {
+          "name": "/location/uk_overseas_territory"
+         }, 
+         {
+          "name": "/location/cn_county_district"
+         }, 
+         {
+          "name": "/location/mx_federal_district"
+         }, 
+         {
+          "name": "/location/tw_direct_controlled_municipality"
+         }, 
+         {
+          "name": "/location/uk_principal_area"
+         }, 
+         {
+          "name": "/location/id_regency"
+         }, 
+         {
+          "name": "/location/vn_centrally_controlled_municipality"
+         }, 
+         {
+          "name": "/location/hk_district"
+         }, 
+         {
+          "name": "/location/ru_federal_district"
+         }, 
+         {
+          "name": "/location/cn_special_administrative_region"
+         }, 
+         {
+          "name": "/location/es_place_of_sovereignty"
+         }, 
+         {
+          "name": "/location/in_district"
+         }, 
+         {
+          "name": "/location/my_division"
+         }, 
+         {
+          "name": "/location/de_borough"
+         }, 
+         {
+          "name": "/location/id_subdistrict"
+         }, 
+         {
+          "name": "/location/nl_municipality"
+         }, 
+         {
+          "name": "/location/cn_town"
+         }, 
+         {
+          "name": "/location/es_province"
+         }, 
+         {
+          "name": "/location/cn_county_level_city"
+         }, 
+         {
+          "name": "/location/pr_municipality"
+         }, 
+         {
+          "name": "/location/vn_town_under_district"
+         }, 
+         {
+          "name": "/location/tw_provincial_city"
+         }, 
+         {
+          "name": "/location/uk_london_borough"
+         }, 
+         {
+          "name": "/location/vn_urban_district"
+         }, 
+         {
+          "name": "/location/my_state"
+         }, 
+         {
+          "name": "/location/ua_oblast"
+         }, 
+         {
+          "name": "/location/vn_provincial_city"
+         }, 
+         {
+          "name": "/location/br_state"
+         }, 
+         {
+          "name": "/location/cn_autonomous_county"
+         }, 
+         {
+          "name": "/location/kp_province"
+         }, 
+         {
+          "name": "/location/my_federal_territory"
+         }, 
+         {
+          "name": "/location/kp_county"
+         }
+        ]
+       }, 
+       {
+        "name": "/location/ua_raion"
+       }, 
+       {
+        "name": "/location/de_state"
+       }, 
+       {
+        "name": "/location/id_province"
+       }, 
+       {
+        "name": "/location/jp_ward"
+       }, 
+       {
+        "name": "/protected_sites/protected_site"
+       }, 
+       {
+        "name": "/location/in_division"
+       }, 
+       {
+        "name": "/location/us_county", 
+        "children": [
+         {
+          "name": "/location/pr_municipality"
+         }
+        ]
+       }, 
+       {
+        "name": "/location/vn_province"
+       }, 
+       {
+        "name": "/location/de_regierungsbezirk"
+       }, 
+       {
+        "name": "/location/uk_overseas_territory"
+       }, 
+       {
+        "name": "/location/cn_county_district"
+       }, 
+       {
+        "name": "/location/mx_federal_district"
+       }, 
+       {
+        "name": "/location/tw_direct_controlled_municipality"
+       }, 
+       {
+        "name": "/location/uk_principal_area"
+       }, 
+       {
+        "name": "/location/id_regency"
+       }, 
+       {
+        "name": "/location/vn_centrally_controlled_municipality"
+       }, 
+       {
+        "name": "/location/hk_district"
+       }, 
+       {
+        "name": "/location/ru_federal_district"
+       }, 
+       {
+        "name": "/government/political_district"
+       }, 
+       {
+        "name": "/location/cn_special_administrative_region"
+       }, 
+       {
+        "name": "/location/es_place_of_sovereignty"
+       }, 
+       {
+        "name": "/location/in_district"
+       }, 
+       {
+        "name": "/location/my_division"
+       }, 
+       {
+        "name": "/location/de_borough"
+       }, 
+       {
+        "name": "/location/id_subdistrict"
+       }, 
+       {
+        "name": "/location/jp_city_town"
+       }, 
+       {
+        "name": "/location/nl_municipality"
+       }, 
+       {
+        "name": "/location/cn_town"
+       }, 
+       {
+        "name": "/location/it_comune"
+       }, 
+       {
+        "name": "/location/es_province"
+       }, 
+       {
+        "name": "/location/cn_county_level_city"
+       }, 
+       {
+        "name": "/location/pr_municipality"
+       }, 
+       {
+        "name": "/location/vn_town_under_district"
+       }, 
+       {
+        "name": "/location/ca_census_division"
+       }, 
+       {
+        "name": "/location/tw_provincial_city"
+       }, 
+       {
+        "name": "/location/uk_london_borough"
+       }, 
+       {
+        "name": "/location/vn_urban_district"
+       }, 
+       {
+        "name": "/location/my_state"
+       }, 
+       {
+        "name": "/location/ua_oblast"
+       }, 
+       {
+        "name": "/location/vn_provincial_city"
+       }, 
+       {
+        "name": "/location/br_state"
+       }, 
+       {
+        "name": "/location/cn_autonomous_county"
+       }, 
+       {
+        "name": "/location/kp_province"
+       }, 
+       {
+        "name": "/location/capital_of_administrative_division"
+       }, 
+       {
+        "name": "/location/kp_city"
+       }, 
+       {
+        "name": "/location/my_federal_territory"
+       }, 
+       {
+        "name": "/location/kp_county"
+       }
+      ]
+     }, 
+     {
+      "name": "/location/region"
+     }, 
+     {
+      "name": "/travel/tourist_attraction", 
+      "children": [
+       {
+        "name": "/amusement_parks/park"
+       }, 
+       {
+        "name": "/architecture/museum"
+       }, 
+       {
+        "name": "/zoos/zoo"
+       }
+      ]
+     }, 
+     {
+      "name": "/government/polled_area"
+     }, 
+     {
+      "name": "/business/oil_field"
+     }, 
+     {
+      "name": "/sports/sports_team_location"
+     }, 
+     {
+      "name": "/location/metropolitan_area_anchor"
+     }, 
+     {
+      "name": "/location/census_tract"
+     }, 
+     {
+      "name": "/olympics/olympic_torch_relay_location"
+     }, 
+     {
+      "name": "/location/place_with_neighborhoods"
+     }, 
+     {
+      "name": "/sports/golf_facility"
+     }, 
+     {
+      "name": "/wine/wine_sub_region"
+     }, 
+     {
+      "name": "/aviation/airport"
+     }, 
+     {
+      "name": "/broadcast/am_terrestrial_broadcast_facility"
+     }, 
+     {
+      "name": "/meteorology/cyclone_affected_area"
+     }, 
+     {
+      "name": "/transportation/road"
+     }, 
+     {
+      "name": "/location/us_cbsa", 
+      "children": [
+       {
+        "name": "/location/hud_section_8_area"
+       }
+      ]
+     }, 
+     {
+      "name": "/biology/breed_origin"
+     }, 
+     {
+      "name": "/education/educational_institution_campus"
+     }, 
+     {
+      "name": "/people/place_of_interment", 
+      "children": [
+       {
+        "name": "/location/cemetery"
+       }
+      ]
+     }, 
+     {
+      "name": "/meteorology/forecast_zone"
+     }, 
+     {
+      "name": "/biology/fossil_site"
+     }, 
+     {
+      "name": "/location/mailing_address"
+     }, 
+     {
+      "name": "/travel/accommodation", 
+      "children": [
+       {
+        "name": "/travel/hotel"
+       }
+      ]
+     }, 
+     {
+      "name": "/location/hud_foreclosure_area", 
+      "children": [
+       {
+        "name": "/location/hud_county_place"
+       }
+      ]
+     }, 
+     {
+      "name": "/travel/travel_destination"
+     }, 
+     {
+      "name": "/location/us_metropolitan_division"
+     }, 
+     {
+      "name": "/location/statistical_region", 
+      "children": [
+       {
+        "name": "/location/uk_council_area"
+       }, 
+       {
+        "name": "/location/in_state"
+       }, 
+       {
+        "name": "/location/uk_constituent_country"
+       }, 
+       {
+        "name": "/location/tr_region"
+       }, 
+       {
+        "name": "/location/fr_region"
+       }, 
+       {
+        "name": "/location/ru_autonomous_oblast"
+       }, 
+       {
+        "name": "/location/mx_municipality"
+       }, 
+       {
+        "name": "/location/vn_precinct"
+       }, 
+       {
+        "name": "/location/australian_state"
+       }, 
+       {
+        "name": "/location/australian_local_government_area"
+       }, 
+       {
+        "name": "/location/fr_department"
+       }, 
+       {
+        "name": "/location/us_federal_district"
+       }, 
+       {
+        "name": "/location/de_urban_district"
+       }, 
+       {
+        "name": "/location/ca_territory"
+       }, 
+       {
+        "name": "/location/us_state"
+       }, 
+       {
+        "name": "/location/metropolitan_area"
+       }, 
+       {
+        "name": "/location/id_city"
+       }, 
+       {
+        "name": "/location/kp_metropolitan_city"
+       }, 
+       {
+        "name": "/location/brazilian_municipality"
+       }, 
+       {
+        "name": "/location/mx_state"
+       }, 
+       {
+        "name": "/location/jp_designated_city"
+       }, 
+       {
+        "name": "/location/australian_territory"
+       }, 
+       {
+        "name": "/location/in_city"
+       }, 
+       {
+        "name": "/location/cn_autonomous_region"
+       }, 
+       {
+        "name": "/location/es_autonomous_community"
+       }, 
+       {
+        "name": "/location/tw_district"
+       }, 
+       {
+        "name": "/location/cn_municipality"
+       }, 
+       {
+        "name": "/location/tw_province"
+       }, 
+       {
+        "name": "/location/de_city", 
+        "children": [
+         {
+          "name": "/location/de_urban_district"
+         }
+        ]
+       }, 
+       {
+        "name": "/location/ru_raion"
+       }, 
+       {
+        "name": "/location/ar_department"
+       }, 
+       {
+        "name": "/location/it_frazione"
+       }, 
+       {
+        "name": "/location/mx_federal_district_borough"
+       }, 
+       {
+        "name": "/location/uk_district"
+       }, 
+       {
+        "name": "/location/ru_federal_city"
+       }, 
+       {
+        "name": "/location/us_territory"
+       }, 
+       {
+        "name": "/location/kp_special_city"
+       }, 
+       {
+        "name": "/location/ru_republic"
+       }, 
+       {
+        "name": "/location/it_region"
+       }, 
+       {
+        "name": "/location/it_province"
+       }, 
+       {
+        "name": "/location/cn_prefecture"
+       }, 
+       {
+        "name": "/location/ru_krai"
+       }, 
+       {
+        "name": "/location/uk_metropolitan_borough"
+       }, 
+       {
+        "name": "/location/us_indian_reservation"
+       }, 
+       {
+        "name": "/location/country"
+       }, 
+       {
+        "name": "/location/cn_prefecture_level_city"
+       }, 
+       {
+        "name": "/location/de_rural_district"
+       }, 
+       {
+        "name": "/location/ar_province"
+       }, 
+       {
+        "name": "/location/ru_autonomous_okrug"
+       }, 
+       {
+        "name": "/location/cn_province"
+       }, 
+       {
+        "name": "/location/es_comarca"
+       }, 
+       {
+        "name": "/location/province"
+       }, 
+       {
+        "name": "/location/ar_commune"
+       }, 
+       {
+        "name": "/location/cn_city_district"
+       }, 
+       {
+        "name": "/location/australian_external_territory"
+       }, 
+       {
+        "name": "/location/tw_township"
+       }, 
+       {
+        "name": "/location/vn_rural_district"
+       }, 
+       {
+        "name": "/location/jp_subprefecture"
+       }, 
+       {
+        "name": "/location/census_designated_place"
+       }, 
+       {
+        "name": "/location/uk_region"
+       }, 
+       {
+        "name": "/location/uk_metropolitan_county"
+       }, 
+       {
+        "name": "/location/nl_province"
+       }, 
+       {
+        "name": "/location/in_union_territory"
+       }, 
+       {
+        "name": "/location/my_district"
+       }, 
+       {
+        "name": "/location/in_subdivision"
+       }, 
+       {
+        "name": "/location/tr_province"
+       }, 
+       {
+        "name": "/location/ru_oblast"
+       }, 
+       {
+        "name": "/location/jp_special_ward"
+       }, 
+       {
+        "name": "/location/uk_crown_dependency"
+       }, 
+       {
+        "name": "/location/cn_township"
+       }, 
+       {
+        "name": "/location/vn_township"
+       }, 
+       {
+        "name": "/location/vn_commune"
+       }, 
+       {
+        "name": "/location/es_autonomous_city"
+       }, 
+       {
+        "name": "/location/jp_prefecture"
+       }, 
+       {
+        "name": "/location/australian_suburb"
+       }, 
+       {
+        "name": "/location/cn_subdistrict"
+       }, 
+       {
+        "name": "/location/uk_unitary_authority"
+       }, 
+       {
+        "name": "/location/continent"
+       }, 
+       {
+        "name": "/location/ca_indian_reserve"
+       }, 
+       {
+        "name": "/location/tw_county"
+       }, 
+       {
+        "name": "/location/ua_autonomous_republic"
+       }, 
+       {
+        "name": "/location/tr_district"
+       }, 
+       {
+        "name": "/location/uk_civil_parish"
+       }, 
+       {
+        "name": "/location/uk_non_metropolitan_district"
+       }, 
+       {
+        "name": "/location/br_federal_district"
+       }, 
+       {
+        "name": "/location/tw_county_administered_city"
+       }, 
+       {
+        "name": "/location/uk_non_metropolitan_county"
+       }, 
+       {
+        "name": "/location/cn_county"
+       }, 
+       {
+        "name": "/location/cn_autonomous_prefecture"
+       }, 
+       {
+        "name": "/location/jp_district"
+       }, 
+       {
+        "name": "/location/administrative_division", 
+        "children": [
+         {
+          "name": "/location/uk_council_area"
+         }, 
+         {
+          "name": "/location/in_state"
+         }, 
+         {
+          "name": "/location/uk_constituent_country"
+         }, 
+         {
+          "name": "/location/fr_region"
+         }, 
+         {
+          "name": "/location/ru_autonomous_oblast"
+         }, 
+         {
+          "name": "/location/mx_municipality"
+         }, 
+         {
+          "name": "/location/vn_precinct"
+         }, 
+         {
+          "name": "/location/australian_state"
+         }, 
+         {
+          "name": "/location/australian_local_government_area"
+         }, 
+         {
+          "name": "/location/fr_department"
+         }, 
+         {
+          "name": "/location/ca_territory"
+         }, 
+         {
+          "name": "/location/us_state"
+         }, 
+         {
+          "name": "/location/id_city"
+         }, 
+         {
+          "name": "/location/kp_metropolitan_city"
+         }, 
+         {
+          "name": "/location/mx_state"
+         }, 
+         {
+          "name": "/location/australian_territory"
+         }, 
+         {
+          "name": "/location/cn_autonomous_region"
+         }, 
+         {
+          "name": "/location/es_autonomous_community"
+         }, 
+         {
+          "name": "/location/tw_district"
+         }, 
+         {
+          "name": "/location/cn_municipality"
+         }, 
+         {
+          "name": "/location/tw_province"
+         }, 
+         {
+          "name": "/location/ru_raion"
+         }, 
+         {
+          "name": "/location/ar_department"
+         }, 
+         {
+          "name": "/location/mx_federal_district_borough"
+         }, 
+         {
+          "name": "/location/uk_district"
+         }, 
+         {
+          "name": "/location/ru_federal_city"
+         }, 
+         {
+          "name": "/location/ru_republic"
+         }, 
+         {
+          "name": "/location/it_region"
+         }, 
+         {
+          "name": "/location/it_province"
+         }, 
+         {
+          "name": "/location/cn_prefecture"
+         }, 
+         {
+          "name": "/location/ru_krai"
+         }, 
+         {
+          "name": "/location/uk_metropolitan_borough"
+         }, 
+         {
+          "name": "/location/us_indian_reservation"
+         }, 
+         {
+          "name": "/location/cn_prefecture_level_city"
+         }, 
+         {
+          "name": "/location/de_rural_district"
+         }, 
+         {
+          "name": "/location/ar_province"
+         }, 
+         {
+          "name": "/location/ru_autonomous_okrug"
+         }, 
+         {
+          "name": "/location/cn_province"
+         }, 
+         {
+          "name": "/location/es_comarca"
+         }, 
+         {
+          "name": "/location/province"
+         }, 
+         {
+          "name": "/location/ar_commune"
+         }, 
+         {
+          "name": "/location/cn_city_district"
+         }, 
+         {
+          "name": "/location/australian_external_territory"
+         }, 
+         {
+          "name": "/location/tw_township"
+         }, 
+         {
+          "name": "/location/vn_rural_district"
+         }, 
+         {
+          "name": "/location/jp_subprefecture"
+         }, 
+         {
+          "name": "/location/uk_region"
+         }, 
+         {
+          "name": "/location/uk_metropolitan_county"
+         }, 
+         {
+          "name": "/location/nl_province"
+         }, 
+         {
+          "name": "/location/in_union_territory"
+         }, 
+         {
+          "name": "/location/my_district"
+         }, 
+         {
+          "name": "/location/in_subdivision"
+         }, 
+         {
+          "name": "/location/tr_province"
+         }, 
+         {
+          "name": "/location/ru_oblast"
+         }, 
+         {
+          "name": "/location/uk_crown_dependency"
+         }, 
+         {
+          "name": "/location/cn_township"
+         }, 
+         {
+          "name": "/location/vn_township"
+         }, 
+         {
+          "name": "/location/vn_commune"
+         }, 
+         {
+          "name": "/location/es_autonomous_city"
+         }, 
+         {
+          "name": "/location/jp_prefecture"
+         }, 
+         {
+          "name": "/location/cn_subdistrict"
+         }, 
+         {
+          "name": "/location/uk_unitary_authority"
+         }, 
+         {
+          "name": "/location/ca_indian_reserve"
+         }, 
+         {
+          "name": "/location/tw_county"
+         }, 
+         {
+          "name": "/location/ua_autonomous_republic"
+         }, 
+         {
+          "name": "/location/tr_district"
+         }, 
+         {
+          "name": "/location/uk_civil_parish"
+         }, 
+         {
+          "name": "/location/uk_non_metropolitan_district"
+         }, 
+         {
+          "name": "/location/tw_county_administered_city"
+         }, 
+         {
+          "name": "/location/uk_non_metropolitan_county"
+         }, 
+         {
+          "name": "/location/cn_county"
+         }, 
+         {
+          "name": "/location/cn_autonomous_prefecture"
+         }, 
+         {
+          "name": "/location/jp_district"
+         }, 
+         {
+          "name": "/location/ua_raion"
+         }, 
+         {
+          "name": "/location/de_state"
+         }, 
+         {
+          "name": "/location/id_province"
+         }, 
+         {
+          "name": "/location/jp_ward"
+         }, 
+         {
+          "name": "/location/in_division"
+         }, 
+         {
+          "name": "/location/us_county", 
+          "children": [
+           {
+            "name": "/location/pr_municipality"
+           }
+          ]
+         }, 
+         {
+          "name": "/location/vn_province"
+         }, 
+         {
+          "name": "/location/de_regierungsbezirk"
+         }, 
+         {
+          "name": "/location/uk_overseas_territory"
+         }, 
+         {
+          "name": "/location/cn_county_district"
+         }, 
+         {
+          "name": "/location/mx_federal_district"
+         }, 
+         {
+          "name": "/location/tw_direct_controlled_municipality"
+         }, 
+         {
+          "name": "/location/uk_principal_area"
+         }, 
+         {
+          "name": "/location/id_regency"
+         }, 
+         {
+          "name": "/location/vn_centrally_controlled_municipality"
+         }, 
+         {
+          "name": "/location/hk_district"
+         }, 
+         {
+          "name": "/location/ru_federal_district"
+         }, 
+         {
+          "name": "/location/cn_special_administrative_region"
+         }, 
+         {
+          "name": "/location/es_place_of_sovereignty"
+         }, 
+         {
+          "name": "/location/in_district"
+         }, 
+         {
+          "name": "/location/my_division"
+         }, 
+         {
+          "name": "/location/de_borough"
+         }, 
+         {
+          "name": "/location/id_subdistrict"
+         }, 
+         {
+          "name": "/location/nl_municipality"
+         }, 
+         {
+          "name": "/location/cn_town"
+         }, 
+         {
+          "name": "/location/es_province"
+         }, 
+         {
+          "name": "/location/cn_county_level_city"
+         }, 
+         {
+          "name": "/location/pr_municipality"
+         }, 
+         {
+          "name": "/location/vn_town_under_district"
+         }, 
+         {
+          "name": "/location/tw_provincial_city"
+         }, 
+         {
+          "name": "/location/uk_london_borough"
+         }, 
+         {
+          "name": "/location/vn_urban_district"
+         }, 
+         {
+          "name": "/location/my_state"
+         }, 
+         {
+          "name": "/location/ua_oblast"
+         }, 
+         {
+          "name": "/location/vn_provincial_city"
+         }, 
+         {
+          "name": "/location/br_state"
+         }, 
+         {
+          "name": "/location/cn_autonomous_county"
+         }, 
+         {
+          "name": "/location/kp_province"
+         }, 
+         {
+          "name": "/location/my_federal_territory"
+         }, 
+         {
+          "name": "/location/kp_county"
+         }
+        ]
+       }, 
+       {
+        "name": "/location/ua_raion"
+       }, 
+       {
+        "name": "/location/de_state"
+       }, 
+       {
+        "name": "/location/id_province"
+       }, 
+       {
+        "name": "/location/jp_ward"
+       }, 
+       {
+        "name": "/location/in_division"
+       }, 
+       {
+        "name": "/location/us_county", 
+        "children": [
+         {
+          "name": "/location/pr_municipality"
+         }
+        ]
+       }, 
+       {
+        "name": "/location/vn_province"
+       }, 
+       {
+        "name": "/location/de_regierungsbezirk"
+       }, 
+       {
+        "name": "/location/uk_overseas_territory"
+       }, 
+       {
+        "name": "/location/cn_county_district"
+       }, 
+       {
+        "name": "/location/mx_federal_district"
+       }, 
+       {
+        "name": "/location/tw_direct_controlled_municipality"
+       }, 
+       {
+        "name": "/location/uk_principal_area"
+       }, 
+       {
+        "name": "/location/id_regency"
+       }, 
+       {
+        "name": "/location/vn_centrally_controlled_municipality"
+       }, 
+       {
+        "name": "/location/hk_district"
+       }, 
+       {
+        "name": "/location/ru_federal_district"
+       }, 
+       {
+        "name": "/location/cn_special_administrative_region"
+       }, 
+       {
+        "name": "/location/es_place_of_sovereignty"
+       }, 
+       {
+        "name": "/location/in_district"
+       }, 
+       {
+        "name": "/location/my_division"
+       }, 
+       {
+        "name": "/location/de_borough"
+       }, 
+       {
+        "name": "/location/id_subdistrict"
+       }, 
+       {
+        "name": "/location/jp_city_town"
+       }, 
+       {
+        "name": "/location/nl_municipality"
+       }, 
+       {
+        "name": "/location/cn_town"
+       }, 
+       {
+        "name": "/location/it_comune"
+       }, 
+       {
+        "name": "/location/es_province"
+       }, 
+       {
+        "name": "/location/cn_county_level_city"
+       }, 
+       {
+        "name": "/location/pr_municipality"
+       }, 
+       {
+        "name": "/location/vn_town_under_district"
+       }, 
+       {
+        "name": "/location/ca_census_division"
+       }, 
+       {
+        "name": "/location/tw_provincial_city"
+       }, 
+       {
+        "name": "/location/uk_london_borough"
+       }, 
+       {
+        "name": "/location/vn_urban_district"
+       }, 
+       {
+        "name": "/location/my_state"
+       }, 
+       {
+        "name": "/location/ua_oblast"
+       }, 
+       {
+        "name": "/location/vn_provincial_city"
+       }, 
+       {
+        "name": "/location/br_state"
+       }, 
+       {
+        "name": "/location/cn_autonomous_county"
+       }, 
+       {
+        "name": "/location/kp_province"
+       }, 
+       {
+        "name": "/location/kp_city"
+       }, 
+       {
+        "name": "/location/my_federal_territory"
+       }, 
+       {
+        "name": "/location/kp_county"
+       }
+      ]
+     }, 
+     {
+      "name": "/olympics/olympic_host_city"
+     }, 
+     {
+      "name": "/wine/wine_region"
+     }, 
+     {
+      "name": "/spaceflight/rocket_launch_site"
+     }, 
+     {
+      "name": "/music/performance_venue"
+     }, 
+     {
+      "name": "/location/uk_statistical_location"
+     }, 
+     {
+      "name": "/business/shopping_center"
+     }, 
+     {
+      "name": "/location/neighborhood"
+     }, 
+     {
+      "name": "/engineering/location_with_mains_power"
+     }, 
+     {
+      "name": "/architecture/building_complex"
+     }, 
+     {
+      "name": "/aviation/aviation_waypoint"
+     }, 
+     {
+      "name": "/metropolitan_transit/transit_stop"
+     }, 
+     {
+      "name": "/architecture/structure", 
+      "children": [
+       {
+        "name": "/law/courthouse"
+       }, 
+       {
+        "name": "/cricket/cricket_stadium"
+       }, 
+       {
+        "name": "/medicine/hospital"
+       }, 
+       {
+        "name": "/sports/sports_facility", 
+        "children": [
+         {
+          "name": "/cricket/cricket_stadium"
+         }, 
+         {
+          "name": "/olympics/olympic_venue"
+         }, 
+         {
+          "name": "/soccer/football_pitch"
+         }
+        ]
+       }, 
+       {
+        "name": "/religion/place_of_worship"
+       }, 
+       {
+        "name": "/opera/opera_house"
+       }, 
+       {
+        "name": "/olympics/olympic_venue"
+       }, 
+       {
+        "name": "/religion/monastery"
+       }, 
+       {
+        "name": "/architecture/tower"
+       }, 
+       {
+        "name": "/soccer/football_pitch"
+       }, 
+       {
+        "name": "/architecture/building", 
+        "children": [
+         {
+          "name": "/law/courthouse"
+         }, 
+         {
+          "name": "/medicine/hospital"
+         }, 
+         {
+          "name": "/religion/place_of_worship"
+         }, 
+         {
+          "name": "/opera/opera_house"
+         }, 
+         {
+          "name": "/religion/monastery"
+         }, 
+         {
+          "name": "/skiing/ski_lodge"
+         }, 
+         {
+          "name": "/travel/hotel"
+         }, 
+         {
+          "name": "/architecture/house"
+         }, 
+         {
+          "name": "/architecture/skyscraper"
+         }
+        ]
+       }, 
+       {
+        "name": "/architecture/lighthouse"
+       }, 
+       {
+        "name": "/transportation/bridge"
+       }, 
+       {
+        "name": "/skiing/ski_lodge"
+       }, 
+       {
+        "name": "/travel/hotel"
+       }, 
+       {
+        "name": "/architecture/house"
+       }, 
+       {
+        "name": "/architecture/skyscraper"
+       }, 
+       {
+        "name": "/automotive/manufacturing_plant"
+       }, 
+       {
+        "name": "/event/disaster_affected_structure"
+       }
+      ]
+     }, 
+     {
+      "name": "/location/postal_code"
+     }, 
+     {
+      "name": "/wine/appellation"
+     }, 
+     {
+      "name": "/broadcast/fm_terrestrial_broadcast_facility"
+     }, 
+     {
+      "name": "/broadcast/tv_terrestrial_broadcast_facility"
+     }, 
+     {
+      "name": "/law/court_jurisdiction_area"
+     }, 
+     {
+      "name": "/tv/tv_location"
+     }, 
+     {
+      "name": "/wine/vineyard"
+     }, 
+     {
+      "name": "/rail/railway"
+     }, 
+     {
+      "name": "/geography/geographical_feature", 
+      "children": [
+       {
+        "name": "/geography/waterfall"
+       }, 
+       {
+        "name": "/geology/geological_formation"
+       }, 
+       {
+        "name": "/geography/mountain_pass"
+       }, 
+       {
+        "name": "/geography/river"
+       }, 
+       {
+        "name": "/geography/body_of_water", 
+        "children": [
+         {
+          "name": "/geography/waterfall"
+         }, 
+         {
+          "name": "/geography/river"
+         }, 
+         {
+          "name": "/geography/lake"
+         }
+        ]
+       }, 
+       {
+        "name": "/geography/glacier"
+       }, 
+       {
+        "name": "/geography/island_group"
+       }, 
+       {
+        "name": "/geography/lake"
+       }, 
+       {
+        "name": "/geography/mountain"
+       }, 
+       {
+        "name": "/geography/mountain_range"
+       }, 
+       {
+        "name": "/geography/island"
+       }
+      ]
+     }, 
+     {
+      "name": "/skiing/ski_area"
+     }, 
+     {
+      "name": "/distilled_spirits/spirit_producing_region"
+     }, 
+     {
+      "name": "/government/governmental_jurisdiction"
+     }, 
+     {
+      "name": "/architecture/landscape_project"
+     }
+    ]
+   }, 
+   {
+    "name": "/education/fraternity_sorority_type"
+   }, 
+   {
+    "name": "/food/beer"
+   }, 
+   {
+    "name": "/award/award_discipline"
+   }, 
+   {
+    "name": "/aviation/airport_type"
+   }, 
+   {
+    "name": "/cvg/cvg_platform"
+   }, 
+   {
+    "name": "/travel/hotel_grading_authority"
+   }, 
+   {
+    "name": "/meteorology/tropical_cyclone_season"
+   }, 
+   {
+    "name": "/law/us_patent_type"
+   }, 
+   {
+    "name": "/book/periodical_publisher"
+   }, 
+   {
+    "name": "/games/game", 
+    "children": [
+     {
+      "name": "/games/playing_card_game"
+     }
+    ]
+   }, 
+   {
+    "name": "/comic_books/comic_book_character"
+   }, 
+   {
+    "name": "/computer/computing_platform"
+   }, 
+   {
+    "name": "/martial_arts/martial_art"
+   }, 
+   {
+    "name": "/engineering/piston_configuration"
+   }, 
+   {
+    "name": "/computer/computer_processor"
+   }, 
+   {
+    "name": "/olympics/olympic_sport"
+   }, 
+   {
+    "name": "/food/licensee"
+   }, 
+   {
+    "name": "/book/serialized_work"
+   }, 
+   {
+    "name": "/boats/ship_builder"
+   }, 
+   {
+    "name": "/spaceflight/rocket_engine_cycle"
+   }, 
+   {
+    "name": "/cricket/cricket_umpire_panel"
+   }, 
+   {
+    "name": "/religion/founding_figure"
+   }, 
+   {
+    "name": "/medicine/contraindication"
+   }, 
+   {
+    "name": "/geography/lake_type"
+   }, 
+   {
+    "name": "/tv/video_type"
+   }, 
+   {
+    "name": "/people/gender"
+   }, 
+   {
+    "name": "/location/capital_category"
+   }, 
+   {
+    "name": "/biology/genomic_locus"
+   }, 
+   {
+    "name": "/organization/organization_partnership"
+   }, 
+   {
+    "name": "/award/ranked_item"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_character", 
+    "children": [
+     {
+      "name": "/tv/tv_character"
+     }, 
+     {
+      "name": "/theater/theater_character"
+     }, 
+     {
+      "name": "/cvg/game_character"
+     }, 
+     {
+      "name": "/comic_strips/comic_strip_character"
+     }, 
+     {
+      "name": "/book/book_character"
+     }, 
+     {
+      "name": "/opera/opera_character"
+     }, 
+     {
+      "name": "/book/poem_character"
+     }, 
+     {
+      "name": "/fictional_universe/fictional_object_destroyer"
+     }, 
+     {
+      "name": "/film/film_character"
+     }
+    ]
+   }, 
+   {
+    "name": "/royalty/chivalric_rank"
+   }, 
+   {
+    "name": "/astronomy/asteroid_family"
+   }, 
+   {
+    "name": "/amusement_parks/ride_theme"
+   }, 
+   {
+    "name": "/medicine/risk_factor"
+   }, 
+   {
+    "name": "/comic_books/comic_book_colorist"
+   }, 
+   {
+    "name": "/digicams/digital_camera_manufacturer"
+   }, 
+   {
+    "name": "/spaceflight/space_program_sponsor"
+   }, 
+   {
+    "name": "/tv/tv_program"
+   }, 
+   {
+    "name": "/medicine/diagnostic_sign"
+   }, 
+   {
+    "name": "/food/bottled_water"
+   }, 
+   {
+    "name": "/business/company_type"
+   }, 
+   {
+    "name": "/internet/api"
+   }, 
+   {
+    "name": "/conferences/conference_venue"
+   }, 
+   {
+    "name": "/finance/stock_exchange"
+   }, 
+   {
+    "name": "/music/genre"
+   }, 
+   {
+    "name": "/music/recording"
+   }, 
+   {
+    "name": "/astronomy/asteroid_group"
+   }, 
+   {
+    "name": "/biology/gene"
+   }, 
+   {
+    "name": "/astronomy/meteoric_composition"
+   }, 
+   {
+    "name": "/radio/radio_subject"
+   }, 
+   {
+    "name": "/music/music_video_genre"
+   }, 
+   {
+    "name": "/aviation/aircraft_model"
+   }, 
+   {
+    "name": "/astronomy/orbit_type"
+   }, 
+   {
+    "name": "/internet/blog"
+   }, 
+   {
+    "name": "/award/competitor"
+   }, 
+   {
+    "name": "/automotive/model"
+   }, 
+   {
+    "name": "/music/musical_tribute_act"
+   }, 
+   {
+    "name": "/sports/golf_course"
+   }, 
+   {
+    "name": "/music/featured_artist"
+   }, 
+   {
+    "name": "/time/calendar"
+   }, 
+   {
+    "name": "/digicams/camera_format"
+   }, 
+   {
+    "name": "/food/type_of_dish"
+   }, 
+   {
+    "name": "/comic_books/comic_book_issue"
+   }, 
+   {
+    "name": "/tv/tv_producer"
+   }, 
+   {
+    "name": "/physics/particle", 
+    "children": [
+     {
+      "name": "/physics/hadron"
+     }, 
+     {
+      "name": "/physics/quark"
+     }
+    ]
+   }, 
+   {
+    "name": "/symbols/heraldic_helm"
+   }, 
+   {
+    "name": "/tv/tv_personality"
+   }, 
+   {
+    "name": "/protected_sites/site_listing_category"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_creature"
+   }, 
+   {
+    "name": "/broadcast/radio_format"
+   }, 
+   {
+    "name": "/tv/multipart_tv_episode"
+   }, 
+   {
+    "name": "/book/school_or_movement"
+   }, 
+   {
+    "name": "/biology/domesticated_animal"
+   }, 
+   {
+    "name": "/boats/ship_type"
+   }, 
+   {
+    "name": "/astronomy/planetographic_coordinate_system"
+   }, 
+   {
+    "name": "/meteorology/cloud_classification"
+   }, 
+   {
+    "name": "/book/newspaper_edition_type"
+   }, 
+   {
+    "name": "/military/military_unit_size"
+   }, 
+   {
+    "name": "/spaceflight/rocket_engine_designer"
+   }, 
+   {
+    "name": "/broadcast/broadcast", 
+    "children": [
+     {
+      "name": "/broadcast/tv_station"
+     }, 
+     {
+      "name": "/broadcast/podcast_feed"
+     }, 
+     {
+      "name": "/broadcast/internet_stream"
+     }, 
+     {
+      "name": "/broadcast/radio_station", 
+      "children": [
+       {
+        "name": "/education/student_radio_station"
+       }
+      ]
+     }, 
+     {
+      "name": "/broadcast/tv_channel"
+     }
+    ]
+   }, 
+   {
+    "name": "/travel/accommodation_feature"
+   }, 
+   {
+    "name": "/cricket/cricket_roster"
+   }, 
+   {
+    "name": "/exhibitions/exhibition_curator"
+   }, 
+   {
+    "name": "/exhibitions/type_of_exhibition"
+   }, 
+   {
+    "name": "/automotive/exterior_color"
+   }, 
+   {
+    "name": "/law/us_patent_category"
+   }, 
+   {
+    "name": "/government/polling_authority"
+   }, 
+   {
+    "name": "/spaceflight/rocket_status"
+   }, 
+   {
+    "name": "/opera/opera_genre"
+   }, 
+   {
+    "name": "/travel/accommodation_type"
+   }, 
+   {
+    "name": "/event/event_promoter"
+   }, 
+   {
+    "name": "/film/film_distributor"
+   }, 
+   {
+    "name": "/music/compositional_form"
+   }, 
+   {
+    "name": "/internet/protocol"
+   }, 
+   {
+    "name": "/spaceflight/rocket_engine_manufacturer"
+   }, 
+   {
+    "name": "/fictional_universe/person_in_fiction"
+   }, 
+   {
+    "name": "/boats/nuclear_powerplant"
+   }, 
+   {
+    "name": "/location/irish_province"
+   }, 
+   {
+    "name": "/symbols/heraldic_brisure"
+   }, 
+   {
+    "name": "/biology/plant_disease"
+   }, 
+   {
+    "name": "/royalty/noble_rank"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_universe_creator"
+   }, 
+   {
+    "name": "/projects/project"
+   }, 
+   {
+    "name": "/medicine/drug_ingredient"
+   }, 
+   {
+    "name": "/business/company_termination_type"
+   }, 
+   {
+    "name": "/medicine/drug_dosage_form"
+   }, 
+   {
+    "name": "/rail/locomotive"
+   }, 
+   {
+    "name": "/symbols/heraldic_tincture"
+   }, 
+   {
+    "name": "/conferences/conference_sponsor"
+   }, 
+   {
+    "name": "/skiing/run_rating"
+   }, 
+   {
+    "name": "/boats/engine_fuel"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_setting"
+   }, 
+   {
+    "name": "/games/playing_card_game_play_direction"
+   }, 
+   {
+    "name": "/computer/programming_language_developer"
+   }, 
+   {
+    "name": "/broadcast/tv_station_owner"
+   }, 
+   {
+    "name": "/food/candy_bar"
+   }, 
+   {
+    "name": "/military/rank"
+   }, 
+   {
+    "name": "/tv/tv_program_creator"
+   }, 
+   {
+    "name": "/computer/computer_emulator"
+   }, 
+   {
+    "name": "/physics/particle_family"
+   }, 
+   {
+    "name": "/meteorology/cloud"
+   }, 
+   {
+    "name": "/cvg/cvg_designer"
+   }, 
+   {
+    "name": "/fictional_universe/work_of_fiction", 
+    "children": [
+     {
+      "name": "/book/short_story"
+     }, 
+     {
+      "name": "/comic_books/comic_book_story"
+     }
+    ]
+   }, 
+   {
+    "name": "/medicine/transmission_route"
+   }, 
+   {
+    "name": "/music/producer"
+   }, 
+   {
+    "name": "/ice_hockey/hockey_division"
+   }, 
+   {
+    "name": "/symbols/heraldry_granting_body"
+   }, 
+   {
+    "name": "/law/international_patent_category"
+   }, 
+   {
+    "name": "/organization/organization_committee"
+   }, 
+   {
+    "name": "/skiing/ski_run"
+   }, 
+   {
+    "name": "/computer/operating_system_developer"
+   }, 
+   {
+    "name": "/business/industry"
+   }, 
+   {
+    "name": "/computer/computer"
+   }, 
+   {
+    "name": "/chemistry/periodic_table_block"
+   }, 
+   {
+    "name": "/visual_art/visual_art_medium"
+   }, 
+   {
+    "name": "/tv/tv_episode_segment"
+   }, 
+   {
+    "name": "/atom/feed_category"
+   }, 
+   {
+    "name": "/film/film_job"
+   }, 
+   {
+    "name": "/cvg/cvg_developer"
+   }, 
+   {
+    "name": "/architecture/building_function"
+   }, 
+   {
+    "name": "/rail/locomotive_class", 
+    "children": [
+     {
+      "name": "/rail/electric_locomotive_class"
+     }, 
+     {
+      "name": "/rail/steam_locomotive_class"
+     }, 
+     {
+      "name": "/rail/diesel_locomotive_class"
+     }
+    ]
+   }, 
+   {
+    "name": "/biology/gene_ontology_group_type"
+   }, 
+   {
+    "name": "/education/educational_degree"
+   }, 
+   {
+    "name": "/medicine/disease"
+   }, 
+   {
+    "name": "/sports/boxing_stance"
+   }, 
+   {
+    "name": "/distilled_spirits/distilled_spirit"
+   }, 
+   {
+    "name": "/rail/rail_network"
+   }, 
+   {
+    "name": "/government/government_permit_type"
+   }, 
+   {
+    "name": "/travel/tour_operator"
+   }, 
+   {
+    "name": "/exhibitions/exhibition_subject"
+   }, 
+   {
+    "name": "/biology/organism", 
+    "children": [
+     {
+      "name": "/biology/deceased_organism"
+     }, 
+     {
+      "name": "/biology/owned_animal"
+     }, 
+     {
+      "name": "/biology/pedigreed_animal"
+     }, 
+     {
+      "name": "/zoos/zoo_animal"
+     }
+    ]
+   }, 
+   {
+    "name": "/people/group"
+   }, 
+   {
+    "name": "/ice_hockey/hockey_coach"
+   }, 
+   {
+    "name": "/comedy/comedy_group"
+   }, 
+   {
+    "name": "/fictional_universe/character_powers"
+   }, 
+   {
+    "name": "/government/government_service_channel"
+   }, 
+   {
+    "name": "/royalty/order_of_chivalry_category"
+   }, 
+   {
+    "name": "/biology/breed_coloring"
+   }, 
+   {
+    "name": "/american_football/super_bowl"
+   }, 
+   {
+    "name": "/geography/mountain_listing"
+   }, 
+   {
+    "name": "/spaceflight/space_program"
+   }, 
+   {
+    "name": "/medicine/vaccine_developer"
+   }, 
+   {
+    "name": "/government/election_poll"
+   }, 
+   {
+    "name": "/symbols/heraldic_crest"
+   }, 
+   {
+    "name": "/engineering/engine_energy_source"
+   }, 
+   {
+    "name": "/architecture/venue", 
+    "children": [
+     {
+      "name": "/music/performance_venue"
+     }, 
+     {
+      "name": "/theater/theater"
+     }
+    ]
+   }, 
+   {
+    "name": "/award/award_nominee"
+   }, 
+   {
+    "name": "/zoos/zoo_category"
+   }, 
+   {
+    "name": "/architecture/architectural_contractor"
+   }, 
+   {
+    "name": "/book/book_binding"
+   }, 
+   {
+    "name": "/tv/tv_series_season"
+   }, 
+   {
+    "name": "/film/film_festival_sponsor"
+   }, 
+   {
+    "name": "/medicine/infectious_disease"
+   }, 
+   {
+    "name": "/aviation/airline_alliance"
+   }, 
+   {
+    "name": "/architecture/type_of_museum"
+   }, 
+   {
+    "name": "/soccer/football_position"
+   }, 
+   {
+    "name": "/organization/organization", 
+    "children": [
+     {
+      "name": "/organization/membership_organization"
+     }, 
+     {
+      "name": "/sports/sports_league", 
+      "children": [
+       {
+        "name": "/basketball/basketball_division"
+       }, 
+       {
+        "name": "/american_football/football_conference"
+       }, 
+       {
+        "name": "/cricket/cricket_league"
+       }, 
+       {
+        "name": "/basketball/basketball_conference"
+       }, 
+       {
+        "name": "/american_football/football_division"
+       }
+      ]
+     }, 
+     {
+      "name": "/education/university_system"
+     }, 
+     {
+      "name": "/business/business_operation", 
+      "children": [
+       {
+        "name": "/spaceflight/satellite_manufacturer"
+       }, 
+       {
+        "name": "/amusement_parks/ride_manufacturer"
+       }, 
+       {
+        "name": "/music/musical_instrument_company"
+       }, 
+       {
+        "name": "/bicycles/bicycle_manufacturer"
+       }, 
+       {
+        "name": "/skiing/ski_lift_manufacturer"
+       }, 
+       {
+        "name": "/automotive/company"
+       }, 
+       {
+        "name": "/cvg/cvg_publisher"
+       }, 
+       {
+        "name": "/architecture/engineering_firm"
+       }, 
+       {
+        "name": "/distilled_spirits/spirit_bottler"
+       }, 
+       {
+        "name": "/wine/wine_producer"
+       }, 
+       {
+        "name": "/aviation/aircraft_manufacturer"
+       }, 
+       {
+        "name": "/architecture/architecture_firm"
+       }, 
+       {
+        "name": "/venture_capital/venture_funded_company"
+       }, 
+       {
+        "name": "/rail/railway_operator"
+       }, 
+       {
+        "name": "/rail/locomotive_builder"
+       }, 
+       {
+        "name": "/music/record_label"
+       }, 
+       {
+        "name": "/aviation/airline"
+       }, 
+       {
+        "name": "/travel/hotel_operator"
+       }, 
+       {
+        "name": "/distilled_spirits/spirit_blender"
+       }, 
+       {
+        "name": "/film/film_company"
+       }, 
+       {
+        "name": "/food/candy_bar_manufacturer"
+       }, 
+       {
+        "name": "/business/shopping_center_owner"
+       }, 
+       {
+        "name": "/business/consumer_company"
+       }, 
+       {
+        "name": "/distilled_spirits/distillery"
+       }
+      ]
+     }, 
+     {
+      "name": "/business/trade_union"
+     }, 
+     {
+      "name": "/military/armed_force"
+     }, 
+     {
+      "name": "/boxing/boxing_sanctioning_body"
+     }, 
+     {
+      "name": "/protected_sites/governing_body_of_protected_sites"
+     }, 
+     {
+      "name": "/education/school_district"
+     }, 
+     {
+      "name": "/finance/exchange_operator"
+     }, 
+     {
+      "name": "/medicine/drug_regulating_authority"
+     }, 
+     {
+      "name": "/military/military_unit"
+     }, 
+     {
+      "name": "/medicine/cancer_center"
+     }, 
+     {
+      "name": "/organization/club"
+     }, 
+     {
+      "name": "/organization/non_profit_organization"
+     }, 
+     {
+      "name": "/government/government_agency"
+     }, 
+     {
+      "name": "/government/political_party"
+     }, 
+     {
+      "name": "/cricket/cricket_administrative_body"
+     }, 
+     {
+      "name": "/theater/theater_company"
+     }, 
+     {
+      "name": "/organization/australian_organization"
+     }, 
+     {
+      "name": "/metropolitan_transit/transit_agency"
+     }, 
+     {
+      "name": "/spaceflight/space_agency"
+     }, 
+     {
+      "name": "/religion/religious_organization", 
+      "children": [
+       {
+        "name": "/religion/religious_order"
+       }
+      ]
+     }, 
+     {
+      "name": "/business/defunct_company"
+     }, 
+     {
+      "name": "/organization/endowed_organization"
+     }, 
+     {
+      "name": "/astronomy/astronomical_survey_project_organization"
+     }, 
+     {
+      "name": "/education/educational_institution", 
+      "children": [
+       {
+        "name": "/education/university"
+       }, 
+       {
+        "name": "/education/school"
+       }
+      ]
+     }, 
+     {
+      "name": "/language/language_regulator"
+     }, 
+     {
+      "name": "/education/student_organization"
+     }, 
+     {
+      "name": "/opera/opera_company"
+     }, 
+     {
+      "name": "/education/fraternity_sorority"
+     }
+    ]
+   }, 
+   {
+    "name": "/award/award_winning_work"
+   }, 
+   {
+    "name": "/soccer/football_award", 
+    "children": [
+     {
+      "name": "/soccer/football_world_cup"
+     }
+    ]
+   }, 
+   {
+    "name": "/architecture/tower_shape"
+   }, 
+   {
+    "name": "/astronomy/galactic_interaction_status"
+   }, 
+   {
+    "name": "/exhibitions/exhibition_venue"
+   }, 
+   {
+    "name": "/influence/influence_node", 
+    "children": [
+     {
+      "name": "/dining/chef"
+     }
+    ]
+   }, 
+   {
+    "name": "/cvg/computer_game_performance_type"
+   }, 
+   {
+    "name": "/automotive/option_package"
+   }, 
+   {
+    "name": "/sports/sports_team", 
+    "children": [
+     {
+      "name": "/basketball/basketball_team"
+     }, 
+     {
+      "name": "/soccer/football_team"
+     }, 
+     {
+      "name": "/sports/tournament_team"
+     }, 
+     {
+      "name": "/sports/school_sports_team"
+     }, 
+     {
+      "name": "/cricket/cricket_team"
+     }, 
+     {
+      "name": "/american_football/football_team"
+     }, 
+     {
+      "name": "/sports/professional_sports_team"
+     }, 
+     {
+      "name": "/ice_hockey/hockey_team"
+     }
+    ]
+   }, 
+   {
+    "name": "/medicine/hormone"
+   }, 
+   {
+    "name": "/ice_hockey/hockey_position"
+   }, 
+   {
+    "name": "/award/award_nominated_work"
+   }, 
+   {
+    "name": "/music/music_video_job"
+   }, 
+   {
+    "name": "/book/periodical", 
+    "children": [
+     {
+      "name": "/book/magazine", 
+      "children": [
+       {
+        "name": "/education/school_magazine"
+       }
+      ]
+     }, 
+     {
+      "name": "/book/journal"
+     }, 
+     {
+      "name": "/book/newspaper", 
+      "children": [
+       {
+        "name": "/education/school_newspaper"
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "/food/brewery_brand_of_beer"
+   }, 
+   {
+    "name": "/aviation/aircraft_type"
+   }, 
+   {
+    "name": "/military/military_combatant"
+   }, 
+   {
+    "name": "/music/composer", 
+    "children": [
+     {
+      "name": "/music/songwriter"
+     }
+    ]
+   }, 
+   {
+    "name": "/medicine/routed_drug"
+   }, 
+   {
+    "name": "/games/game_designer"
+   }, 
+   {
+    "name": "/engineering/battery_shape_format"
+   }, 
+   {
+    "name": "/language/language_family"
+   }, 
+   {
+    "name": "/amusement_parks/disney_ride_ticket"
+   }, 
+   {
+    "name": "/symbols/namesake"
+   }, 
+   {
+    "name": "/cvg/computer_game_engine"
+   }, 
+   {
+    "name": "/music/music_video_performer"
+   }, 
+   {
+    "name": "/chemistry/chemical_bond"
+   }, 
+   {
+    "name": "/engineering/fuel_delivery_method"
+   }, 
+   {
+    "name": "/film/content_rating"
+   }, 
+   {
+    "name": "/engineering/battery_size"
+   }, 
+   {
+    "name": "/organization/club_interest"
+   }, 
+   {
+    "name": "/engineering/material"
+   }, 
+   {
+    "name": "/skiing/lift_type"
+   }, 
+   {
+    "name": "/medicine/drug_legal_status"
+   }, 
+   {
+    "name": "/organization/contact_category"
+   }, 
+   {
+    "name": "/chemistry/solubility"
+   }, 
+   {
+    "name": "/digicams/camera_sensor_manufacturer"
+   }, 
+   {
+    "name": "/film/film_story_contributor"
+   }, 
+   {
+    "name": "/aviation/waypoint_type"
+   }, 
+   {
+    "name": "/music/guitar"
+   }, 
+   {
+    "name": "/time/day_of_week"
+   }, 
+   {
+    "name": "/language/language_writing_system"
+   }, 
+   {
+    "name": "/symbols/heraldic_supporter"
+   }, 
+   {
+    "name": "/medicine/medical_treatment", 
+    "children": [
+     {
+      "name": "/medicine/vaccine"
+     }
+    ]
+   }, 
+   {
+    "name": "/bicycles/bicycle_type"
+   }, 
+   {
+    "name": "/food/drinking_establishment_type"
+   }, 
+   {
+    "name": "/film/film_festival_focus"
+   }, 
+   {
+    "name": "/engineering/valvetrain_configuration"
+   }, 
+   {
+    "name": "/aviation/airport_operator"
+   }, 
+   {
+    "name": "/royalty/chivalric_title"
+   }, 
+   {
+    "name": "/medicine/diagnostic_test"
+   }, 
+   {
+    "name": "/broadcast/genre"
+   }, 
+   {
+    "name": "/skiing/ski_lift"
+   }, 
+   {
+    "name": "/music/music_video_subject"
+   }, 
+   {
+    "name": "/geography/glacier_type"
+   }, 
+   {
+    "name": "/projects/project_participant", 
+    "children": [
+     {
+      "name": "/engineering/engine_designer"
+     }
+    ]
+   }, 
+   {
+    "name": "/business/issuer"
+   }, 
+   {
+    "name": "/book/published_work", 
+    "children": [
+     {
+      "name": "/book/short_non_fiction"
+     }, 
+     {
+      "name": "/book/scholarly_work", 
+      "children": [
+       {
+        "name": "/book/journal_article"
+       }, 
+       {
+        "name": "/book/technical_report"
+       }, 
+       {
+        "name": "/education/dissertation"
+       }
+      ]
+     }, 
+     {
+      "name": "/book/review"
+     }, 
+     {
+      "name": "/book/short_story"
+     }, 
+     {
+      "name": "/book/translation"
+     }, 
+     {
+      "name": "/book/poem"
+     }, 
+     {
+      "name": "/book/interview"
+     }, 
+     {
+      "name": "/book/excerpt"
+     }, 
+     {
+      "name": "/book/serial_installment"
+     }
+    ]
+   }, 
+   {
+    "name": "/fictional_universe/fictional_organization"
+   }, 
+   {
+    "name": "/celebrities/supercouple"
+   }, 
+   {
+    "name": "/broadcast/radio_network"
+   }, 
+   {
+    "name": "/medicine/drug_mechanism_of_action"
+   }, 
+   {
+    "name": "/education/grade_level"
+   }, 
+   {
+    "name": "/music/special_music_video_performance_type"
+   }, 
+   {
+    "name": "/internet/top_level_domain_sponsor"
+   }, 
+   {
+    "name": "/spaceflight/rocket_engine", 
+    "children": [
+     {
+      "name": "/spaceflight/bipropellant_rocket_engine"
+     }
+    ]
+   }, 
+   {
+    "name": "/food/culinary_measure"
+   }, 
+   {
+    "name": "/book/periodical_format"
+   }, 
+   {
+    "name": "/cvg/computer_game_rating_system"
+   }, 
+   {
+    "name": "/spaceflight/rocket_fuel"
+   }, 
+   {
+    "name": "/celebrities/abused_substance"
+   }, 
+   {
+    "name": "/book/newspaper_issue"
+   }, 
+   {
+    "name": "/medicine/medical_trial_phase"
+   }, 
+   {
+    "name": "/theater/theater_production"
+   }, 
+   {
+    "name": "/event/disaster_type"
+   }, 
+   {
+    "name": "/exhibitions/exhibition_producer"
+   }, 
+   {
+    "name": "/atom/feed"
+   }, 
+   {
+    "name": "/time/holiday_category"
+   }, 
+   {
+    "name": "/opera/opera_production_staff_role"
+   }, 
+   {
+    "name": "/film/film_format"
+   }, 
+   {
+    "name": "/book/book_edition_series"
+   }, 
+   {
+    "name": "/visual_art/art_series"
+   }, 
+   {
+    "name": "/travel/hotel_brand_owner"
+   }, 
+   {
+    "name": "/architecture/architectural_structure_owner"
+   }, 
+   {
+    "name": "/religion/congregation"
+   }, 
+   {
+    "name": "/fictional_universe/type_of_fictional_setting"
+   }, 
+   {
+    "name": "/engineering/electric_current_type"
+   }, 
+   {
+    "name": "/spaceflight/rocket_engine_oxidizer"
+   }, 
+   {
+    "name": "/interests/collectable_item"
+   }, 
+   {
+    "name": "/organization/organization_founder"
+   }, 
+   {
+    "name": "/travel/hotel_brand"
+   }, 
+   {
+    "name": "/education/athletics_brand"
+   }, 
+   {
+    "name": "/amusement_parks/ride_designer"
+   }, 
+   {
+    "name": "/aviation/airport_terminal"
+   }, 
+   {
+    "name": "/fictional_universe/character_occupation"
+   }, 
+   {
+    "name": "/cvg/computer_game_engine_family"
+   }, 
+   {
+    "name": "/astronomy/telescope_platform"
+   }, 
+   {
+    "name": "/cricket/cricket_delivery_type"
+   }, 
+   {
+    "name": "/royalty/kingdom"
+   }, 
+   {
+    "name": "/martial_arts/martial_art_category"
+   }, 
+   {
+    "name": "/broadcast/distributor", 
+    "children": [
+     {
+      "name": "/broadcast/am_terrestrial_broadcast_facility"
+     }, 
+     {
+      "name": "/broadcast/fm_terrestrial_broadcast_facility"
+     }, 
+     {
+      "name": "/broadcast/tv_terrestrial_broadcast_facility"
+     }
+    ]
+   }, 
+   {
+    "name": "/spaceflight/rocket_engine_status"
+   }, 
+   {
+    "name": "/spaceflight/rocket_manufacturer"
+   }, 
+   {
+    "name": "/spaceflight/rocket"
+   }, 
+   {
+    "name": "/organization/role"
+   }, 
+   {
+    "name": "/business/product_category"
+   }, 
+   {
+    "name": "/tv/tv_program_guest"
+   }, 
+   {
+    "name": "/symbols/heraldic_charge"
+   }, 
+   {
+    "name": "/tv/non_character_role"
+   }, 
+   {
+    "name": "/boxing/boxing_decision"
+   }, 
+   {
+    "name": "/time/day_of_year"
+   }, 
+   {
+    "name": "/fictional_universe/character_rank"
+   }, 
+   {
+    "name": "/religion/deity"
+   }, 
+   {
+    "name": "/physics/fundamental_interaction"
+   }, 
+   {
+    "name": "/computer/internet_protocol"
+   }, 
+   {
+    "name": "/comic_strips/comic_strip_syndicate"
+   }, 
+   {
+    "name": "/religion/religion"
+   }, 
+   {
+    "name": "/digicams/camera_uncompressed_format"
+   }, 
+   {
+    "name": "/food/recipe_collection"
+   }, 
+   {
+    "name": "/symbols/heraldic_compartment"
+   }, 
+   {
+    "name": "/comic_strips/comic_strip"
+   }, 
+   {
+    "name": "/dining/cuisine"
+   }, 
+   {
+    "name": "/biology/gene_ontology_group_membership_evidence_type"
+   }, 
+   {
+    "name": "/business/consumer_product", 
+    "children": [
+     {
+      "name": "/business/endorsed_product"
+     }, 
+     {
+      "name": "/digicams/digital_camera"
+     }, 
+     {
+      "name": "/computer/computer_peripheral"
+     }, 
+     {
+      "name": "/bicycles/bicycle_model"
+     }, 
+     {
+      "name": "/medicine/manufactured_drug_form"
+     }
+    ]
+   }, 
+   {
+    "name": "/medicine/drug_formulation_category"
+   }, 
+   {
+    "name": "/business/issue"
+   }, 
+   {
+    "name": "/music/performance_role", 
+    "children": [
+     {
+      "name": "/music/voice"
+     }, 
+     {
+      "name": "/music/instrument"
+     }
+    ]
+   }, 
+   {
+    "name": "/medicine/fda_otc_monograph_part"
+   }, 
+   {
+    "name": "/award/hall_of_fame_induction_category"
+   }, 
+   {
+    "name": "/chemistry/element_discoverer"
+   }, 
+   {
+    "name": "/broadcast/tv_signal_type"
+   }, 
+   {
+    "name": "/conferences/type_of_conference"
+   }, 
+   {
+    "name": "/cvg/cvg_platform_family"
+   }, 
+   {
+    "name": "/medicine/cancer_center_type"
+   }, 
+   {
+    "name": "/people/professional_field"
+   }, 
+   {
+    "name": "/food/dish"
+   }, 
+   {
+    "name": "/medicine/drug_class"
+   }, 
+   {
+    "name": "/astronomy/trans_neptunian_region"
+   }, 
+   {
+    "name": "/biology/cytogenetic_band"
+   }, 
+   {
+    "name": "/music/album_content_type"
+   }, 
+   {
+    "name": "/rail/railway_terminus"
+   }, 
+   {
+    "name": "/architecture/building_occupant"
+   }, 
+   {
+    "name": "/food/dietary_restriction"
+   }, 
+   {
+    "name": "/automotive/privately_owned_vehicle"
+   }, 
+   {
+    "name": "/law/constitutional_amendment"
+   }, 
+   {
+    "name": "/award/long_list_nominee"
+   }, 
+   {
+    "name": "/film/film", 
+    "children": [
+     {
+      "name": "/music/concert_film"
+     }
+    ]
+   }, 
+   {
+    "name": "/automotive/model_year"
+   }, 
+   {
+    "name": "/digicams/camera_iso"
+   }, 
+   {
+    "name": "/biology/gene_group"
+   }, 
+   {
+    "name": "/astronomy/telescope"
+   }, 
+   {
+    "name": "/tv/special_tv_performance_type"
+   }, 
+   {
+    "name": "/astronomy/celestial_object", 
+    "children": [
+     {
+      "name": "/astronomy/star_system"
+     }, 
+     {
+      "name": "/astronomy/trans_neptunian_object"
+     }, 
+     {
+      "name": "/astronomy/galaxy", 
+      "children": [
+       {
+        "name": "/astronomy/satellite_galaxy"
+       }
+      ]
+     }, 
+     {
+      "name": "/astronomy/galactic_cluster"
+     }, 
+     {
+      "name": "/astronomy/nebula"
+     }, 
+     {
+      "name": "/astronomy/dwarf_planet", 
+      "children": [
+       {
+        "name": "/astronomy/plutoid"
+       }
+      ]
+     }, 
+     {
+      "name": "/astronomy/galactic_group"
+     }, 
+     {
+      "name": "/astronomy/star"
+     }, 
+     {
+      "name": "/astronomy/meteorite_source"
+     }, 
+     {
+      "name": "/astronomy/supernova"
+     }, 
+     {
+      "name": "/astronomy/asteroid"
+     }, 
+     {
+      "name": "/astronomy/galactic_super_cluster"
+     }, 
+     {
+      "name": "/astronomy/moon"
+     }, 
+     {
+      "name": "/astronomy/galactic_filament"
+     }, 
+     {
+      "name": "/astronomy/scattered_disc_object"
+     }, 
+     {
+      "name": "/astronomy/star_system_body"
+     }, 
+     {
+      "name": "/astronomy/comet"
+     }, 
+     {
+      "name": "/astronomy/celestial_object_with_coordinate_system"
+     }, 
+     {
+      "name": "/astronomy/planet"
+     }
+    ]
+   }, 
+   {
+    "name": "/chemistry/radioactive_decay_mode"
+   }, 
+   {
+    "name": "/engineering/signal_modulation_mode"
+   }, 
+   {
+    "name": "/food/beverage_type"
+   }, 
+   {
+    "name": "/automotive/automotive_class"
+   }, 
+   {
+    "name": "/food/cheese"
+   }, 
+   {
+    "name": "/food/diet"
+   }, 
+   {
+    "name": "/business/product_endorsee"
+   }, 
+   {
+    "name": "/film/content_rating_system"
+   }, 
+   {
+    "name": "/biology/breed_temperament"
+   }, 
+   {
+    "name": "/chess/chess_game"
+   }, 
+   {
+    "name": "/architecture/landscape_architect"
+   }, 
+   {
+    "name": "/business/product_endorser"
+   }, 
+   {
+    "name": "/automotive/trim_level", 
+    "children": [
+     {
+      "name": "/automotive/truck_trim_level"
+     }
+    ]
+   }, 
+   {
+    "name": "/comic_strips/comic_strip_genre"
+   }, 
+   {
+    "name": "/distilled_spirits/infused_spirit_style"
+   }, 
+   {
+    "name": "/astronomy/galactic_shape"
+   }, 
+   {
+    "name": "/astronomy/astronomical_discovery_status"
+   }, 
+   {
+    "name": "/aviation/iata_airline_designator"
+   }, 
+   {
+    "name": "/automotive/fuel_delivery_method"
+   }, 
+   {
+    "name": "/education/academic_post_title"
+   }, 
+   {
+    "name": "/astronomy/orbital_relationship", 
+    "children": [
+     {
+      "name": "/astronomy/trans_neptunian_object"
+     }, 
+     {
+      "name": "/astronomy/dwarf_planet", 
+      "children": [
+       {
+        "name": "/astronomy/plutoid"
+       }
+      ]
+     }, 
+     {
+      "name": "/astronomy/star"
+     }, 
+     {
+      "name": "/astronomy/asteroid"
+     }, 
+     {
+      "name": "/astronomy/moon"
+     }, 
+     {
+      "name": "/astronomy/comet"
+     }, 
+     {
+      "name": "/astronomy/planet"
+     }
+    ]
+   }, 
+   {
+    "name": "/engineering/engine_cooling_method"
+   }, 
+   {
+    "name": "/community/discussion_thread"
+   }, 
+   {
+    "name": "/medicine/drug_formulation"
+   }, 
+   {
+    "name": "/government/government"
+   }, 
+   {
+    "name": "/american_football/football_scoring_event"
+   }, 
+   {
+    "name": "/visual_art/visual_art_genre"
+   }, 
+   {
+    "name": "/automotive/transmission"
+   }, 
+   {
+    "name": "/cricket/dismissal_type"
+   }, 
+   {
+    "name": "/protected_sites/natural_or_cultural_preservation_agency"
+   }, 
+   {
+    "name": "/film/film_featured_song"
+   }, 
+   {
+    "name": "/business/currency_sub_unit"
+   }, 
+   {
+    "name": "/award/award_winner"
+   }, 
+   {
+    "name": "/olympics/olympic_bidding_city"
+   }, 
+   {
+    "name": "/medicine/condition_prevention_factors", 
+    "children": [
+     {
+      "name": "/medicine/vaccine"
+     }
+    ]
+   }, 
+   {
+    "name": "/amusement_parks/ride", 
+    "children": [
+     {
+      "name": "/amusement_parks/roller_coaster"
+     }, 
+     {
+      "name": "/amusement_parks/disney_ride"
+     }
+    ]
+   }, 
+   {
+    "name": "/spaceflight/launch_payload"
+   }, 
+   {
+    "name": "/tennis/tennis_match_type"
+   }, 
+   {
+    "name": "/visual_art/color"
+   }, 
+   {
+    "name": "/award/award_presenting_organization"
+   }, 
+   {
+    "name": "/language/language_dialect"
+   }, 
+   {
+    "name": "/business/job_title"
+   }, 
+   {
+    "name": "/biology/organism_classification", 
+    "children": [
+     {
+      "name": "/biology/animal", 
+      "children": [
+       {
+        "name": "/biology/animal_breed"
+       }
+      ]
+     }, 
+     {
+      "name": "/biology/source_organism"
+     }, 
+     {
+      "name": "/biology/plant_disease_host"
+     }, 
+     {
+      "name": "/biology/hybrid"
+     }, 
+     {
+      "name": "/biology/taxon_with_sequenced_genome"
+     }
+    ]
+   }, 
+   {
+    "name": "/broadcast/producer"
+   }, 
+   {
+    "name": "/business/customer"
+   }, 
+   {
+    "name": "/internet/website_category"
+   }, 
+   {
+    "name": "/architecture/building_complex_function"
+   }, 
+   {
+    "name": "/sports/sport_medal"
+   }, 
+   {
+    "name": "/rail/steam_locomotive_fuel_type"
+   }, 
+   {
+    "name": "/award/hall_of_fame_inductee"
+   }, 
+   {
+    "name": "/law/patent_assignee"
+   }, 
+   {
+    "name": "/opera/opera_recording"
+   }, 
+   {
+    "name": "/chemistry/phase_of_matter"
+   }, 
+   {
+    "name": "/computer/web_browser"
+   }, 
+   {
+    "name": "/fashion/garment"
+   }, 
+   {
+    "name": "/law/constitutional_amendment_proposer"
+   }, 
+   {
+    "name": "/biology/gene_ontology_group"
+   }, 
+   {
+    "name": "/language/conlang_purpose"
+   }, 
+   {
+    "name": "/fashion/textile"
+   }, 
+   {
+    "name": "/chemistry/isotope"
+   }, 
+   {
+    "name": "/wine/wine"
+   }, 
+   {
+    "name": "/government/political_ideology"
+   }, 
+   {
+    "name": "/library/public_library"
+   }, 
+   {
+    "name": "/opera/opera_designer_role"
+   }, 
+   {
+    "name": "/broadcast/radio_station_owner"
+   }, 
+   {
+    "name": "/medicine/drug_administration_route"
+   }, 
+   {
+    "name": "/medicine/drug_form_shape"
+   }, 
+   {
+    "name": "/computer/computer_manufacturer_brand"
+   }, 
+   {
+    "name": "/music/concert_performance_role"
+   }, 
+   {
+    "name": "/government/government_service"
+   }, 
+   {
+    "name": "/meteorology/beaufort_wind_force"
+   }, 
+   {
+    "name": "/religion/religious_practice"
+   }, 
+   {
+    "name": "/meteorology/tropical_cyclone"
+   }, 
+   {
+    "name": "/comic_books/comic_book_story_arc"
+   }, 
+   {
+    "name": "/astronomy/telescope_type"
+   }, 
+   {
+    "name": "/film/film_cut_type"
+   }, 
+   {
+    "name": "/people/wedding_venue"
+   }, 
+   {
+    "name": "/visual_art/art_acquisition_method"
+   }, 
+   {
+    "name": "/medicine/anatomical_structure", 
+    "children": [
+     {
+      "name": "/medicine/nerve", 
+      "children": [
+       {
+        "name": "/medicine/cranial_nerve"
+       }
+      ]
+     }, 
+     {
+      "name": "/medicine/muscle"
+     }, 
+     {
+      "name": "/medicine/vein"
+     }, 
+     {
+      "name": "/medicine/brain"
+     }, 
+     {
+      "name": "/medicine/bone"
+     }, 
+     {
+      "name": "/medicine/ligament"
+     }, 
+     {
+      "name": "/medicine/artery"
+     }
+    ]
+   }, 
+   {
+    "name": "/award/award"
+   }, 
+   {
+    "name": "/medicine/disease_cause"
+   }, 
+   {
+    "name": "/comic_books/comic_book_publisher"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_job_title"
+   }, 
+   {
+    "name": "/skiing/run_rating_symbol"
+   }, 
+   {
+    "name": "/sports/sport_country"
+   }, 
+   {
+    "name": "/ice_hockey/hockey_conference"
+   }, 
+   {
+    "name": "/biology/taxonomic_authority"
+   }, 
+   {
+    "name": "/government/election_campaign", 
+    "children": [
+     {
+      "name": "/government/us_vice_presidential_campaign"
+     }, 
+     {
+      "name": "/government/us_presidential_campaign"
+     }
+    ]
+   }, 
+   {
+    "name": "/fictional_universe/fictional_employer"
+   }, 
+   {
+    "name": "/architecture/unrealized_design"
+   }, 
+   {
+    "name": "/cvg/computer_videogame", 
+    "children": [
+     {
+      "name": "/cvg/computer_game_expansion"
+     }, 
+     {
+      "name": "/cvg/musical_game"
+     }, 
+     {
+      "name": "/cvg/computer_game_compilation"
+     }, 
+     {
+      "name": "/cvg/computer_game_mod"
+     }
+    ]
+   }, 
+   {
+    "name": "/digicams/camera_compressed_format"
+   }, 
+   {
+    "name": "/law/legal_subject"
+   }, 
+   {
+    "name": "/protected_sites/iucn_category"
+   }, 
+   {
+    "name": "/biology/plant_disease_conditions"
+   }, 
+   {
+    "name": "/broadcast/content", 
+    "children": [
+     {
+      "name": "/radio/radio_program"
+     }
+    ]
+   }, 
+   {
+    "name": "/people/measured_body_part"
+   }, 
+   {
+    "name": "/music/artist", 
+    "children": [
+     {
+      "name": "/music/musical_group", 
+      "children": [
+       {
+        "name": "/music/conducted_ensemble"
+       }, 
+       {
+        "name": "/music/orchestra"
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "/broadcast/broadcast_station_class"
+   }, 
+   {
+    "name": "/people/person", 
+    "children": [
+     {
+      "name": "/military/military_commander"
+     }, 
+     {
+      "name": "/tv/tv_actor"
+     }, 
+     {
+      "name": "/royalty/noble_person", 
+      "children": [
+       {
+        "name": "/royalty/monarch"
+       }
+      ]
+     }, 
+     {
+      "name": "/film/film_art_director"
+     }, 
+     {
+      "name": "/film/director"
+     }, 
+     {
+      "name": "/theater/theater_producer"
+     }, 
+     {
+      "name": "/music/songwriter"
+     }, 
+     {
+      "name": "/event/disaster_survivor"
+     }, 
+     {
+      "name": "/medicine/physician"
+     }, 
+     {
+      "name": "/interests/hobbyist"
+     }, 
+     {
+      "name": "/medicine/notable_person_with_medical_condition"
+     }, 
+     {
+      "name": "/medicine/surgeon"
+     }, 
+     {
+      "name": "/olympics/olympic_torchbearer"
+     }, 
+     {
+      "name": "/people/appointee"
+     }, 
+     {
+      "name": "/sports/sports_team_coach"
+     }, 
+     {
+      "name": "/spaceflight/astronaut"
+     }, 
+     {
+      "name": "/music/tour_manager"
+     }, 
+     {
+      "name": "/music/group_member"
+     }, 
+     {
+      "name": "/architecture/architect"
+     }, 
+     {
+      "name": "/theater/musical_director"
+     }, 
+     {
+      "name": "/visual_art/visual_artist"
+     }, 
+     {
+      "name": "/language/language_creator"
+     }, 
+     {
+      "name": "/comedy/comedian"
+     }, 
+     {
+      "name": "/military/military_person"
+     }, 
+     {
+      "name": "/music/opera_singer"
+     }, 
+     {
+      "name": "/tv/tv_crewmember"
+     }, 
+     {
+      "name": "/law/judge"
+     }, 
+     {
+      "name": "/interests/collector"
+     }, 
+     {
+      "name": "/law/inventor"
+     }, 
+     {
+      "name": "/film/film_casting_director"
+     }, 
+     {
+      "name": "/business/company_advisor"
+     }, 
+     {
+      "name": "/food/recipe_author"
+     }, 
+     {
+      "name": "/comic_books/comic_book_penciler"
+     }, 
+     {
+      "name": "/soccer/football_referee"
+     }, 
+     {
+      "name": "/theater/theater_choreographer"
+     }, 
+     {
+      "name": "/music/guitarist"
+     }, 
+     {
+      "name": "/film/actor"
+     }, 
+     {
+      "name": "/film/film_critic"
+     }, 
+     {
+      "name": "/basketball/basketball_coach"
+     }, 
+     {
+      "name": "/theater/theatrical_lyricist"
+     }, 
+     {
+      "name": "/law/constitutional_convention_delegate"
+     }, 
+     {
+      "name": "/theater/theater_actor"
+     }, 
+     {
+      "name": "/business/board_member"
+     }, 
+     {
+      "name": "/fictional_universe/fictional_character_creator"
+     }, 
+     {
+      "name": "/music/drummer"
+     }, 
+     {
+      "name": "/book/translator"
+     }, 
+     {
+      "name": "/people/family_member"
+     }, 
+     {
+      "name": "/film/cinematographer"
+     }, 
+     {
+      "name": "/government/politician", 
+      "children": [
+       {
+        "name": "/government/canadian_mp"
+       }, 
+       {
+        "name": "/government/us_vice_president"
+       }, 
+       {
+        "name": "/government/us_president"
+       }, 
+       {
+        "name": "/government/u_s_congressperson"
+       }, 
+       {
+        "name": "/government/australian_mp"
+       }
+      ]
+     }, 
+     {
+      "name": "/sports/sports_official"
+     }, 
+     {
+      "name": "/theater/theatrical_composer"
+     }, 
+     {
+      "name": "/tv/tv_writer"
+     }, 
+     {
+      "name": "/film/film_production_designer"
+     }, 
+     {
+      "name": "/cvg/game_voice_actor"
+     }, 
+     {
+      "name": "/internet/blogger"
+     }, 
+     {
+      "name": "/opera/opera_designer"
+     }, 
+     {
+      "name": "/american_football/football_coach"
+     }, 
+     {
+      "name": "/education/honorary_degree_recipient"
+     }, 
+     {
+      "name": "/architecture/architecture_firm_partners"
+     }, 
+     {
+      "name": "/book/illustrator"
+     }, 
+     {
+      "name": "/soccer/football_team_manager"
+     }, 
+     {
+      "name": "/book/author"
+     }, 
+     {
+      "name": "/geography/mountaineer"
+     }, 
+     {
+      "name": "/music/bassist"
+     }, 
+     {
+      "name": "/people/appointment_nominee"
+     }, 
+     {
+      "name": "/music/music_video_director"
+     }, 
+     {
+      "name": "/astronomy/astronomer"
+     }, 
+     {
+      "name": "/music/music_video_choreographer"
+     }, 
+     {
+      "name": "/book/periodical_editor"
+     }, 
+     {
+      "name": "/opera/opera_producer"
+     }, 
+     {
+      "name": "/chess/chess_player"
+     }, 
+     {
+      "name": "/theater/theater_production_staff"
+     }, 
+     {
+      "name": "/film/editor"
+     }, 
+     {
+      "name": "/sports/sports_team_captain"
+     }, 
+     {
+      "name": "/dining/chef"
+     }, 
+     {
+      "name": "/award/award_judge"
+     }, 
+     {
+      "name": "/royalty/chivalric_order_founder"
+     }, 
+     {
+      "name": "/computer/computer_scientist"
+     }, 
+     {
+      "name": "/comic_books/comic_book_inker"
+     }, 
+     {
+      "name": "/martial_arts/martial_artist"
+     }, 
+     {
+      "name": "/religion/religious_leader"
+     }, 
+     {
+      "name": "/education/academic"
+     }, 
+     {
+      "name": "/comic_books/comic_book_creator"
+     }, 
+     {
+      "name": "/tv/tv_director"
+     }, 
+     {
+      "name": "/cricket/cricket_umpire"
+     }, 
+     {
+      "name": "/sports/golf_course_designer"
+     }, 
+     {
+      "name": "/architecture/engineer", 
+      "children": [
+       {
+        "name": "/architecture/structural_engineer"
+       }, 
+       {
+        "name": "/architecture/civil_engineer"
+       }
+      ]
+     }, 
+     {
+      "name": "/architecture/museum_director"
+     }, 
+     {
+      "name": "/theater/theater_director"
+     }, 
+     {
+      "name": "/theater/theater_designer"
+     }, 
+     {
+      "name": "/theater/theatrical_orchestrator"
+     }, 
+     {
+      "name": "/automotive/designer"
+     }, 
+     {
+      "name": "/film/film_set_designer"
+     }, 
+     {
+      "name": "/film/film_costumer_designer"
+     }, 
+     {
+      "name": "/book/interviewee"
+     }, 
+     {
+      "name": "/cricket/cricket_coach"
+     }, 
+     {
+      "name": "/book/interviewer"
+     }, 
+     {
+      "name": "/comic_books/comic_book_editor"
+     }, 
+     {
+      "name": "/comic_books/comic_book_writer"
+     }, 
+     {
+      "name": "/people/measured_person", 
+      "children": [
+       {
+        "name": "/sports/pro_athlete", 
+        "children": [
+         {
+          "name": "/sports/cyclist"
+         }, 
+         {
+          "name": "/sports/boxer"
+         }, 
+         {
+          "name": "/olympics/olympic_athlete"
+         }, 
+         {
+          "name": "/basketball/basketball_player"
+         }, 
+         {
+          "name": "/sports/golfer"
+         }, 
+         {
+          "name": "/sports/australian_rules_footballer"
+         }, 
+         {
+          "name": "/sports/tournament_event_competitor"
+         }, 
+         {
+          "name": "/sports/drafted_athlete"
+         }, 
+         {
+          "name": "/soccer/football_player"
+         }, 
+         {
+          "name": "/ice_hockey/hockey_player"
+         }, 
+         {
+          "name": "/cricket/cricket_player", 
+          "children": [
+           {
+            "name": "/cricket/cricket_bowler"
+           }
+          ]
+         }, 
+         {
+          "name": "/cricket/cricket_bowler"
+         }, 
+         {
+          "name": "/tennis/tennis_player", 
+          "children": [
+           {
+            "name": "/tennis/tennis_tournament_champion"
+           }
+          ]
+         }, 
+         {
+          "name": "/american_football/football_player"
+         }
+        ]
+       }
+      ]
+     }, 
+     {
+      "name": "/film/film_crewmember"
+     }, 
+     {
+      "name": "/event/public_speaker"
+     }, 
+     {
+      "name": "/film/film_theorist"
+     }, 
+     {
+      "name": "/music/music_video_crewmember"
+     }, 
+     {
+      "name": "/book/audio_book_reader"
+     }, 
+     {
+      "name": "/film/producer"
+     }, 
+     {
+      "name": "/comic_books/comic_book_letterer"
+     }, 
+     {
+      "name": "/opera/opera_director"
+     }, 
+     {
+      "name": "/book/series_editor"
+     }, 
+     {
+      "name": "/opera/opera_production_staff"
+     }, 
+     {
+      "name": "/people/deceased_person", 
+      "children": [
+       {
+        "name": "/event/disaster_victim"
+       }
+      ]
+     }, 
+     {
+      "name": "/film/writer"
+     }, 
+     {
+      "name": "/royalty/chivalric_order_member"
+     }
+    ]
+   }, 
+   {
+    "name": "/education/school_category"
+   }, 
+   {
+    "name": "/people/family", 
+    "children": [
+     {
+      "name": "/royalty/royal_line"
+     }
+    ]
+   }, 
+   {
+    "name": "/biology/genome"
+   }, 
+   {
+    "name": "/astronomy/galactic_interaction_type"
+   }, 
+   {
+    "name": "/boats/motor"
+   }, 
+   {
+    "name": "/food/beverage"
+   }, 
+   {
+    "name": "/tv/tv_genre"
+   }, 
+   {
+    "name": "/fictional_universe/character_gender"
+   }, 
+   {
+    "name": "/martial_arts/martial_arts_organization"
+   }, 
+   {
+    "name": "/language/language_writing_type"
+   }, 
+   {
+    "name": "/government/government_service_audience_type"
+   }, 
+   {
+    "name": "/travel/transport_terminus"
+   }, 
+   {
+    "name": "/organization/organization_committee_title"
+   }, 
+   {
+    "name": "/government/polled_entity"
+   }, 
+   {
+    "name": "/chess/chess_game_outcome"
+   }, 
+   {
+    "name": "/award/ranked_list_compiler"
+   }, 
+   {
+    "name": "/computer/web_browser_extension"
+   }, 
+   {
+    "name": "/tv/tv_subject"
+   }, 
+   {
+    "name": "/film/film_distribution_medium"
+   }, 
+   {
+    "name": "/education/department"
+   }, 
+   {
+    "name": "/music/musical_scale"
+   }, 
+   {
+    "name": "/rail/electric_system"
+   }, 
+   {
+    "name": "/interests/interest", 
+    "children": [
+     {
+      "name": "/interests/hobby", 
+      "children": [
+       {
+        "name": "/interests/collection_activity"
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "/engineering/power_plug_standard_type"
+   }, 
+   {
+    "name": "/medicine/medical_trial_design"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_substance"
+   }, 
+   {
+    "name": "/spaceflight/mission_destination"
+   }, 
+   {
+    "name": "/music/festival"
+   }, 
+   {
+    "name": "/biology/organism_classification_rank"
+   }, 
+   {
+    "name": "/business/shareholder"
+   }, 
+   {
+    "name": "/location/hud_mfa"
+   }, 
+   {
+    "name": "/time/recurring_event", 
+    "children": [
+     {
+      "name": "/award/recurring_award_ceremony"
+     }, 
+     {
+      "name": "/soccer/football_league"
+     }, 
+     {
+      "name": "/award/recurring_competition"
+     }, 
+     {
+      "name": "/sports/sports_championship", 
+      "children": [
+       {
+        "name": "/cricket/cricket_tournament"
+       }
+      ]
+     }, 
+     {
+      "name": "/film/film_festival"
+     }, 
+     {
+      "name": "/conferences/conference_series"
+     }, 
+     {
+      "name": "/fashion/fashion_week"
+     }, 
+     {
+      "name": "/tennis/tennis_tournament"
+     }, 
+     {
+      "name": "/cricket/cricket_series"
+     }
+    ]
+   }, 
+   {
+    "name": "/boats/ship_class"
+   }, 
+   {
+    "name": "/atom/feed_person"
+   }, 
+   {
+    "name": "/fictional_universe/ethnicity_in_fiction"
+   }, 
+   {
+    "name": "/business/board_member_title"
+   }, 
+   {
+    "name": "/theater/theater_production_staff_role"
+   }, 
+   {
+    "name": "/book/written_work", 
+    "children": [
+     {
+      "name": "/event/presented_work"
+     }, 
+     {
+      "name": "/book/short_non_fiction"
+     }, 
+     {
+      "name": "/theater/play"
+     }, 
+     {
+      "name": "/book/scholarly_work", 
+      "children": [
+       {
+        "name": "/book/journal_article"
+       }, 
+       {
+        "name": "/book/technical_report"
+       }, 
+       {
+        "name": "/education/dissertation"
+       }
+      ]
+     }, 
+     {
+      "name": "/book/review"
+     }, 
+     {
+      "name": "/biology/plant_disease_documentation"
+     }, 
+     {
+      "name": "/conferences/conference_proceedings"
+     }, 
+     {
+      "name": "/book/short_story"
+     }, 
+     {
+      "name": "/book/poem"
+     }, 
+     {
+      "name": "/book/book", 
+      "children": [
+       {
+        "name": "/travel/guidebook"
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "/organization/organization_sector"
+   }, 
+   {
+    "name": "/computer/file_format_genre"
+   }, 
+   {
+    "name": "/symbols/coat_of_arms_bearer"
+   }, 
+   {
+    "name": "/food/tea"
+   }, 
+   {
+    "name": "/government/legislative_session"
+   }, 
+   {
+    "name": "/business/asset", 
+    "children": [
+     {
+      "name": "/business/oil_field"
+     }
+    ]
+   }, 
+   {
+    "name": "/american_football/scoreboard_quarter"
+   }, 
+   {
+    "name": "/medicine/drug", 
+    "children": [
+     {
+      "name": "/medicine/compound_drug"
+     }, 
+     {
+      "name": "/medicine/vaccine"
+     }
+    ]
+   }, 
+   {
+    "name": "/cricket/cricket_batting_stroke"
+   }, 
+   {
+    "name": "/medicine/drug_pregnancy_category"
+   }, 
+   {
+    "name": "/celebrities/sexual_orientation"
+   }, 
+   {
+    "name": "/music/musical_chord"
+   }, 
+   {
+    "name": "/medicine/medical_trial_sponsor"
+   }, 
+   {
+    "name": "/astronomy/constellation"
+   }, 
+   {
+    "name": "/astronomy/asterism"
+   }, 
+   {
+    "name": "/people/profession", 
+    "children": [
+     {
+      "name": "/music/musician_profession"
+     }
+    ]
+   }, 
+   {
+    "name": "/food/cheese_milk_source"
+   }, 
+   {
+    "name": "/fashion/fashion_designer"
+   }, 
+   {
+    "name": "/food/wine_style"
+   }, 
+   {
+    "name": "/film/music_contributor"
+   }, 
+   {
+    "name": "/organization/organization_scope"
+   }, 
+   {
+    "name": "/symbols/coat_of_arms"
+   }, 
+   {
+    "name": "/organization/organization_member"
+   }, 
+   {
+    "name": "/time/time_zone", 
+    "children": [
+     {
+      "name": "/time/defunct_time_zone"
+     }, 
+     {
+      "name": "/time/tzdata_time_zone"
+     }
+    ]
+   }, 
+   {
+    "name": "/astronomy/spectral_type"
+   }, 
+   {
+    "name": "/fictional_universe/medical_condition_in_fiction"
+   }, 
+   {
+    "name": "/education/academic_institution"
+   }, 
+   {
+    "name": "/government/electoral_college"
+   }, 
+   {
+    "name": "/american_football/football_coach_position"
+   }, 
+   {
+    "name": "/food/beer_style"
+   }, 
+   {
+    "name": "/fashion/fashion_label"
+   }, 
+   {
+    "name": "/metropolitan_transit/transit_vehicle"
+   }, 
+   {
+    "name": "/astronomy/comet_group"
+   }, 
+   {
+    "name": "/amusement_parks/roller_coaster_train_configuration"
+   }, 
+   {
+    "name": "/geography/glacier_status"
+   }, 
+   {
+    "name": "/symbols/name_source"
+   }, 
+   {
+    "name": "/theater/theater_genre"
+   }, 
+   {
+    "name": "/music/release", 
+    "children": [
+     {
+      "name": "/music/multipart_release"
+     }, 
+     {
+      "name": "/music/release_component"
+     }
+    ]
+   }, 
+   {
+    "name": "/fashion/fashion_category"
+   }, 
+   {
+    "name": "/aviation/airport_runway_surface"
+   }, 
+   {
+    "name": "/amusement_parks/ride_type"
+   }, 
+   {
+    "name": "/chemistry/chemical_element"
+   }, 
+   {
+    "name": "/chemistry/molecular_entity"
+   }, 
+   {
+    "name": "/geography/waterfall_type"
+   }, 
+   {
+    "name": "/physics/subatomic_particle_generation"
+   }, 
+   {
+    "name": "/food/beer_style_category"
+   }, 
+   {
+    "name": "/biology/chromosome"
+   }, 
+   {
+    "name": "/rail/railway_type"
+   }, 
+   {
+    "name": "/travel/guidebook_series"
+   }, 
+   {
+    "name": "/soccer/fifa"
+   }, 
+   {
+    "name": "/location/offical_symbol_variety"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_calendar_system"
+   }, 
+   {
+    "name": "/biology/breed_registry"
+   }, 
+   {
+    "name": "/celebrities/celebrity"
+   }, 
+   {
+    "name": "/tv/video_host"
+   }, 
+   {
+    "name": "/food/ingredient"
+   }, 
+   {
+    "name": "/film/film_song_performer"
+   }, 
+   {
+    "name": "/computer/protocol_provider"
+   }, 
+   {
+    "name": "/astronomy/asteroid_spectral_type"
+   }, 
+   {
+    "name": "/chemistry/chemical_compound", 
+    "children": [
+     {
+      "name": "/biology/amino_acid"
+     }
+    ]
+   }, 
+   {
+    "name": "/royalty/chivalric_office"
+   }, 
+   {
+    "name": "/people/ethnicity", 
+    "children": [
+     {
+      "name": "/people/canadian_aboriginal_group"
+     }, 
+     {
+      "name": "/people/american_indian_group"
+     }, 
+     {
+      "name": "/people/chinese_ethnic_group"
+     }
+    ]
+   }, 
+   {
+    "name": "/olympics/olympic_medal_demonstration"
+   }, 
+   {
+    "name": "/automotive/engine_type"
+   }, 
+   {
+    "name": "/award/competition_type"
+   }, 
+   {
+    "name": "/spaceflight/rocket_engine_fuel"
+   }, 
+   {
+    "name": "/visual_art/art_period_movement"
+   }, 
+   {
+    "name": "/meteorology/meteorological_service"
+   }, 
+   {
+    "name": "/book/excerpted_work"
+   }, 
+   {
+    "name": "/automotive/body_style"
+   }, 
+   {
+    "name": "/event/event_producer"
+   }, 
+   {
+    "name": "/medicine/medical_device"
+   }, 
+   {
+    "name": "/cricket/cricket_bowling_pace"
+   }, 
+   {
+    "name": "/book/literary_series"
+   }, 
+   {
+    "name": "/distilled_spirits/blended_spirit"
+   }, 
+   {
+    "name": "/symbols/heraldic_ordinaire"
+   }, 
+   {
+    "name": "/boats/means_of_propulsion"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_object_destruction_method"
+   }, 
+   {
+    "name": "/time/geologic_time_period"
+   }, 
+   {
+    "name": "/broadcast/advisory"
+   }, 
+   {
+    "name": "/transportation/highway_system"
+   }, 
+   {
+    "name": "/people/cause_of_death"
+   }, 
+   {
+    "name": "/business/employer", 
+    "children": [
+     {
+      "name": "/sports/sports_league", 
+      "children": [
+       {
+        "name": "/basketball/basketball_division"
+       }, 
+       {
+        "name": "/american_football/football_conference"
+       }, 
+       {
+        "name": "/cricket/cricket_league"
+       }, 
+       {
+        "name": "/basketball/basketball_conference"
+       }, 
+       {
+        "name": "/american_football/football_division"
+       }
+      ]
+     }, 
+     {
+      "name": "/business/trade_union"
+     }, 
+     {
+      "name": "/organization/non_profit_organization"
+     }, 
+     {
+      "name": "/government/political_party"
+     }, 
+     {
+      "name": "/cricket/cricket_administrative_body"
+     }, 
+     {
+      "name": "/education/educational_institution", 
+      "children": [
+       {
+        "name": "/education/university"
+       }, 
+       {
+        "name": "/education/school"
+       }
+      ]
+     }, 
+     {
+      "name": "/business/business_location", 
+      "children": [
+       {
+        "name": "/food/drinking_establishment"
+       }, 
+       {
+        "name": "/dining/restaurant"
+       }
+      ]
+     }, 
+     {
+      "name": "/education/fraternity_sorority"
+     }
+    ]
+   }, 
+   {
+    "name": "/award/award_achievement_level"
+   }, 
+   {
+    "name": "/digicams/camera_storage_type"
+   }, 
+   {
+    "name": "/book/editor_title"
+   }, 
+   {
+    "name": "/astronomy/meteorite"
+   }, 
+   {
+    "name": "/computer/operating_system"
+   }, 
+   {
+    "name": "/medicine/drug_manufacturer"
+   }, 
+   {
+    "name": "/games/game_publisher"
+   }, 
+   {
+    "name": "/computer/processor_manufacturer"
+   }, 
+   {
+    "name": "/celebrities/rehab_facility"
+   }, 
+   {
+    "name": "/comedy/comedy_genre"
+   }, 
+   {
+    "name": "/chemistry/particle_spin"
+   }, 
+   {
+    "name": "/military/military_theater"
+   }, 
+   {
+    "name": "/film/personal_film_appearance_type"
+   }, 
+   {
+    "name": "/interests/collection_category"
+   }, 
+   {
+    "name": "/music/media_format"
+   }, 
+   {
+    "name": "/cvg/computer_game_region"
+   }, 
+   {
+    "name": "/aviation/icao_airline_designator"
+   }, 
+   {
+    "name": "/visual_art/visual_art_support"
+   }, 
+   {
+    "name": "/biology/animal_owner"
+   }, 
+   {
+    "name": "/internet/top_level_domain_registry"
+   }, 
+   {
+    "name": "/aviation/accident_type"
+   }, 
+   {
+    "name": "/venture_capital/venture_investor"
+   }, 
+   {
+    "name": "/wine/fruit_source"
+   }, 
+   {
+    "name": "/architecture/lighthouse_construction_material"
+   }, 
+   {
+    "name": "/computer/programming_language"
+   }, 
+   {
+    "name": "/rail/locomotive_owner"
+   }, 
+   {
+    "name": "/government/government_service_type"
+   }, 
+   {
+    "name": "/book/publication", 
+    "children": [
+     {
+      "name": "/conferences/conference_proceedings"
+     }, 
+     {
+      "name": "/book/magazine_issue"
+     }
+    ]
+   }, 
+   {
+    "name": "/film/special_film_performance_type"
+   }, 
+   {
+    "name": "/geography/geographical_feature_category"
+   }, 
+   {
+    "name": "/law/legal_party_role"
+   }, 
+   {
+    "name": "/amusement_parks/roller_coaster_material"
+   }, 
+   {
+    "name": "/aviation/aircraft_engine_type"
+   }, 
+   {
+    "name": "/wine/wine_type"
+   }, 
+   {
+    "name": "/opera/libretto"
+   }, 
+   {
+    "name": "/tv/tv_crew_role"
+   }, 
+   {
+    "name": "/symbols/heraldic_coronet"
+   }, 
+   {
+    "name": "/travel/transportation_mode"
+   }, 
+   {
+    "name": "/community/community_user"
+   }, 
+   {
+    "name": "/business/brand"
+   }, 
+   {
+    "name": "/tv/tv_series_episode", 
+    "children": [
+     {
+      "name": "/tv/the_colbert_report_episode"
+     }
+    ]
+   }, 
+   {
+    "name": "/business/product_with_ingredients"
+   }, 
+   {
+    "name": "/food/food"
+   }, 
+   {
+    "name": "/people/family_name"
+   }, 
+   {
+    "name": "/boats/ship_designer"
+   }, 
+   {
+    "name": "/computer/file_format"
+   }, 
+   {
+    "name": "/medicine/drug_physiologic_effect"
+   }, 
+   {
+    "name": "/law/us_patent"
+   }, 
+   {
+    "name": "/music/recording_cluster"
+   }, 
+   {
+    "name": "/symbols/flag"
+   }, 
+   {
+    "name": "/military/military_unit_place_of_origin"
+   }, 
+   {
+    "name": "/sports/sports_league_draft"
+   }, 
+   {
+    "name": "/amusement_parks/roller_coaster_propulsion_system"
+   }, 
+   {
+    "name": "/astronomy/astronomical_discovery", 
+    "children": [
+     {
+      "name": "/astronomy/dwarf_planet", 
+      "children": [
+       {
+        "name": "/astronomy/plutoid"
+       }
+      ]
+     }, 
+     {
+      "name": "/astronomy/asteroid"
+     }, 
+     {
+      "name": "/astronomy/moon"
+     }, 
+     {
+      "name": "/astronomy/comet"
+     }
+    ]
+   }, 
+   {
+    "name": "/government/election_with_polls"
+   }, 
+   {
+    "name": "/protected_sites/natural_or_cultural_site_designation"
+   }, 
+   {
+    "name": "/architecture/architectural_style"
+   }, 
+   {
+    "name": "/award/ranked_list"
+   }, 
+   {
+    "name": "/law/invention", 
+    "children": [
+     {
+      "name": "/engineering/engine_category"
+     }
+    ]
+   }, 
+   {
+    "name": "/library/public_library_system"
+   }, 
+   {
+    "name": "/digicams/camera_image_ratio"
+   }, 
+   {
+    "name": "/projects/project_focus", 
+    "children": [
+     {
+      "name": "/engineering/piston_engine"
+     }, 
+     {
+      "name": "/spaceflight/space_mission"
+     }, 
+     {
+      "name": "/astronomy/astronomical_observatory"
+     }, 
+     {
+      "name": "/architecture/structure", 
+      "children": [
+       {
+        "name": "/law/courthouse"
+       }, 
+       {
+        "name": "/cricket/cricket_stadium"
+       }, 
+       {
+        "name": "/medicine/hospital"
+       }, 
+       {
+        "name": "/sports/sports_facility", 
+        "children": [
+         {
+          "name": "/cricket/cricket_stadium"
+         }, 
+         {
+          "name": "/olympics/olympic_venue"
+         }, 
+         {
+          "name": "/soccer/football_pitch"
+         }
+        ]
+       }, 
+       {
+        "name": "/religion/place_of_worship"
+       }, 
+       {
+        "name": "/opera/opera_house"
+       }, 
+       {
+        "name": "/olympics/olympic_venue"
+       }, 
+       {
+        "name": "/religion/monastery"
+       }, 
+       {
+        "name": "/architecture/tower"
+       }, 
+       {
+        "name": "/soccer/football_pitch"
+       }, 
+       {
+        "name": "/architecture/building", 
+        "children": [
+         {
+          "name": "/law/courthouse"
+         }, 
+         {
+          "name": "/medicine/hospital"
+         }, 
+         {
+          "name": "/religion/place_of_worship"
+         }, 
+         {
+          "name": "/opera/opera_house"
+         }, 
+         {
+          "name": "/religion/monastery"
+         }, 
+         {
+          "name": "/skiing/ski_lodge"
+         }, 
+         {
+          "name": "/travel/hotel"
+         }, 
+         {
+          "name": "/architecture/house"
+         }, 
+         {
+          "name": "/architecture/skyscraper"
+         }
+        ]
+       }, 
+       {
+        "name": "/architecture/lighthouse"
+       }, 
+       {
+        "name": "/transportation/bridge"
+       }, 
+       {
+        "name": "/skiing/ski_lodge"
+       }, 
+       {
+        "name": "/travel/hotel"
+       }, 
+       {
+        "name": "/architecture/house"
+       }, 
+       {
+        "name": "/architecture/skyscraper"
+       }, 
+       {
+        "name": "/automotive/manufacturing_plant"
+       }, 
+       {
+        "name": "/event/disaster_affected_structure"
+       }
+      ]
+     }, 
+     {
+      "name": "/engineering/reaction_engine"
+     }
+    ]
+   }, 
+   {
+    "name": "/book/short_non_fiction_variety"
+   }, 
+   {
+    "name": "/medicine/biofluid"
+   }, 
+   {
+    "name": "/projects/project_role"
+   }, 
+   {
+    "name": "/food/diet_follower"
+   }, 
+   {
+    "name": "/food/culinary_technique"
+   }, 
+   {
+    "name": "/music/lyricist", 
+    "children": [
+     {
+      "name": "/music/songwriter"
+     }
+    ]
+   }, 
+   {
+    "name": "/astronomy/type_of_planetographic_feature"
+   }, 
+   {
+    "name": "/symbols/heraldic_variation_of_the_field"
+   }, 
+   {
+    "name": "/geology/rock_type"
+   }, 
+   {
+    "name": "/government/government_office_category"
+   }, 
+   {
+    "name": "/comic_strips/comic_strip_creator_role"
+   }, 
+   {
+    "name": "/medicine/drug_brand"
+   }, 
+   {
+    "name": "/astronomy/galaxy_classification_code"
+   }, 
+   {
+    "name": "/biology/protein"
+   }, 
+   {
+    "name": "/chess/chess_color"
+   }, 
+   {
+    "name": "/people/appointed_role"
+   }, 
+   {
+    "name": "/internet/top_level_domain_status"
+   }, 
+   {
+    "name": "/business/market_index"
+   }, 
+   {
+    "name": "/book/isbn"
+   }, 
+   {
+    "name": "/tv/tv_rating"
+   }, 
+   {
+    "name": "/spaceflight/spacecraft", 
+    "children": [
+     {
+      "name": "/spaceflight/satellite"
+     }
+    ]
+   }, 
+   {
+    "name": "/comic_books/comic_book_genre"
+   }, 
+   {
+    "name": "/automotive/option"
+   }, 
+   {
+    "name": "/music/composition", 
+    "children": [
+     {
+      "name": "/government/national_anthem"
+     }, 
+     {
+      "name": "/music/arrangement"
+     }, 
+     {
+      "name": "/sports/fight_song"
+     }, 
+     {
+      "name": "/film/film_song"
+     }, 
+     {
+      "name": "/tv/tv_song"
+     }, 
+     {
+      "name": "/tv/tv_theme_song"
+     }, 
+     {
+      "name": "/opera/opera"
+     }
+    ]
+   }, 
+   {
+    "name": "/film/film_location"
+   }, 
+   {
+    "name": "/symbols/flag_referent"
+   }, 
+   {
+    "name": "/book/book_subject"
+   }, 
+   {
+    "name": "/royalty/system_of_nobility"
+   }, 
+   {
+    "name": "/internet/top_level_domain_type"
+   }, 
+   {
+    "name": "/automotive/driveline"
+   }, 
+   {
+    "name": "/government/legislative_committee"
+   }, 
+   {
+    "name": "/location/geometry"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_organization_founder"
+   }, 
+   {
+    "name": "/medicine/medical_trial_health_authority"
+   }, 
+   {
+    "name": "/tennis/tennis_grip_style"
+   }, 
+   {
+    "name": "/government/indirect_election"
+   }, 
+   {
+    "name": "/games/game_expansion"
+   }, 
+   {
+    "name": "/celebrities/romantic_relationship_type"
+   }, 
+   {
+    "name": "/music/conductor"
+   }, 
+   {
+    "name": "/medicine/medical_trial"
+   }, 
+   {
+    "name": "/rail/rail_gauge"
+   }, 
+   {
+    "name": "/astronomy/astronomical_discovery_technique"
+   }, 
+   {
+    "name": "/fictional_universe/character_species"
+   }, 
+   {
+    "name": "/atom/feed_item"
+   }, 
+   {
+    "name": "/sports/boxing_weight_division"
+   }, 
+   {
+    "name": "/sports/sports_team_owner"
+   }, 
+   {
+    "name": "/religion/religious_leadership_title"
+   }, 
+   {
+    "name": "/music/album_release_type"
+   }, 
+   {
+    "name": "/automotive/platform"
+   }, 
+   {
+    "name": "/engineering/power_plug_standard"
+   }, 
+   {
+    "name": "/spaceflight/satellite_orbit_type"
+   }, 
+   {
+    "name": "/cricket/cricket_bowling_technique"
+   }, 
+   {
+    "name": "/automotive/transmission_type"
+   }, 
+   {
+    "name": "/medicine/icd_9_cm_classification"
+   }, 
+   {
+    "name": "/metropolitan_transit/transit_service_type"
+   }, 
+   {
+    "name": "/transportation/bridge_type"
+   }, 
+   {
+    "name": "/biology/organism_part"
+   }, 
+   {
+    "name": "/food/cheese_texture"
+   }, 
+   {
+    "name": "/award/long_listed_work"
+   }, 
+   {
+    "name": "/film/film_collection"
+   }, 
+   {
+    "name": "/automotive/generation"
+   }, 
+   {
+    "name": "/sports/handedness"
+   }, 
+   {
+    "name": "/business/sponsor"
+   }, 
+   {
+    "name": "/sports/sports_gender"
+   }, 
+   {
+    "name": "/organization/non_profit_designation"
+   }, 
+   {
+    "name": "/conferences/conference_subject"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_plant"
+   }, 
+   {
+    "name": "/cvg/computer_game_subject"
+   }, 
+   {
+    "name": "/martial_arts/martial_arts_qualification"
+   }, 
+   {
+    "name": "/book/periodical_subject"
+   }, 
+   {
+    "name": "/book/publishing_company"
+   }
+  ]
+ }
